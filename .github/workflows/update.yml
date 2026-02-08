@@ -1,70 +1,59 @@
-name: Daily NCAAW Update
+name: Update and Deploy
 
 on:
   schedule:
-    - cron: '0 9 * * *' # Daily at 9am UTC
-  workflow_dispatch:      # Manual trigger
+    - cron: '0 9 * * *' # Runs daily at 9am UTC
+  workflow_dispatch:      # Allows you to click "Run" manually
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Job 1: Update Data & Commit to Repo
-  update-data:
+  # Single job that does EVERYTHING sequentially
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      # 1. Get your code
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 2. Setup R environment
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
 
-      - name: Install Packages
+      # 3. Install Packages
+      - name: Install R Packages
         run: |
           install.packages("pacman")
         shell: Rscript {0}
 
+      # 4. Generate the JSON file
       - name: Run Analysis Script
         run: Rscript scripts/update_data.R
 
+      # 5. Save (Commit) the JSON file to your Repo
+      # This step ensures data.json appears in your file list!
       - name: Commit and Push Data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data.json
-          git commit -m "Auto-update: New stats data" || echo "No changes to commit"
+          git commit -m "Update stats data" || echo "No changes to commit"
           git push
 
-  # Job 2: Deploy to GitHub Pages
-  deploy:
-    needs: update-data
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        # We need to checkout again to get the 'data.json' that Job 1 just pushed
-        with:
-          ref: main 
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
+      # 6. Package the website (HTML + JS + CSS + NEW data.json)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # Upload the entire repository (index.html, data.json, css, js)
+          path: '.'
 
+      # 7. Publish to the internet
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
