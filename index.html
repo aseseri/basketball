@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCAAW Analytics Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>NCAAW Analytics Hub</h1>
+        <div class="meta" id="last-updated">Loading data...</div>
+    </header>
+
+    <div class="dashboard">
+        <div class="card full-width">
+            <h2>Yesterday's Top Scorers</h2>
+            <canvas id="dailyChart"></canvas>
+        </div>
+
+        <div class="card full-width">
+            <h2>Season Leaders: Points vs. Rebounds</h2>
+            <p style="font-size: 0.8rem; color: #666;">Top 50 Scorers (Avg per Game)</p>
+            <canvas id="scatterChart"></canvas>
+        </div>
+    </div>
+</div>
+    
+<script src="script.js"></script>
+</body>
+</html>

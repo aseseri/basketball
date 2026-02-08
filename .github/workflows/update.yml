@@ -1,0 +1,35 @@
+name: Daily NCAAW Update
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Runs daily at 9:00 AM UTC
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install Packages
+        run: |
+          install.packages("pacman")
+        shell: Rscript {0}
+
+      - name: Run Analysis Script
+        run: Rscript scripts/update_data.R
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data.json
+          git commit -m "Auto-update: New stats data" || echo "No changes to commit"
+          git push

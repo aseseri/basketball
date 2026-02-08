@@ -1,0 +1,45 @@
+/* CSS STYLES */
+:root {
+    --primary: #2563eb;
+    --bg: #f8fafc;
+    --card-bg: #ffffff;
+    --text: #1e293b;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 2rem;
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+header {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 1rem;
+}
+h1 { margin: 0; font-size: 2rem; }
+.meta { color: #64748b; font-size: 0.9rem; margin-top: 0.5rem; }
+
+/* Grid Layout for Charts */
+.dashboard {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+@media (min-width: 768px) {
+    .dashboard { grid-template-columns: 1fr 1fr; }
+    .full-width { grid-column: span 2; }
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+}
+h2 { margin-top: 0; font-size: 1.25rem; color: #334155; }
+canvas { width: 100% !important; height: auto !important; }
