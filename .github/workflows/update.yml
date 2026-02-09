@@ -1,9 +1,9 @@
-name: Update and Deploy
+name: Daily Update
 
 on:
   schedule:
-    - cron: '0 9 * * *' # Runs daily at 9am UTC
-  workflow_dispatch:      # Allows you to click "Run" manually
+    - cron: '0 9 * * *' # Daily at 9am UTC
+  workflow_dispatch:      # Manual trigger button
 
 permissions:
   contents: write
@@ -15,45 +15,51 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Single job that does EVERYTHING sequentially
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1. Get your code
+      # 1. Checkout Code
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Setup R environment
+      # 2. Setup R
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
 
-      # 3. Install Packages
+      # 3. NEW STEP: Install Linux System Dependencies
+      # This fixes the "curl.h: No such file" error
+      - name: Install Linux Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev libharfbuzz-dev libfribidi-dev
+
+      # 4. Install R Packages
+      # We add 'curl' and 'httr' explicitly to be safe
       - name: Install R Packages
         run: |
-          install.packages("pacman")
+          install.packages(c("pacman", "curl", "httr", "wehoop", "dplyr", "jsonlite", "lubridate", "janitor"))
         shell: Rscript {0}
 
-      # 4. Generate the JSON file
+      # 5. Generate JSON
       - name: Run Analysis Script
         run: Rscript scripts/update_data.R
 
-      # 5. Save (Commit) the JSON file to your Repo
-      # This step ensures data.json appears in your file list!
+      # 6. Commit and Push JSON
       - name: Commit and Push Data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data.json
-          git commit -m "Update stats data" || echo "No changes to commit"
+          git commit -m "Auto-update stats" || echo "No changes to commit"
           git push
 
-      # 6. Package the website (HTML + JS + CSS + NEW data.json)
+      # 7. Upload Website Artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
-      # 7. Publish to the internet
+      # 8. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
