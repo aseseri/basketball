@@ -2,7 +2,7 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '0 9 * * *' # Daily at 9am UTC
+    - cron: '0 15 * * *' # Daily at 15 UTC
   workflow_dispatch:      # Manual trigger button
 
 permissions:
