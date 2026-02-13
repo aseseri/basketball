@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "updated_at": "2026-02-12 16:00:20.540927",
-    "latest_game_date": "2026-02-11"
+    "updated_at": "2026-02-13 15:48:32.075201",
+    "latest_game_date": "2026-02-12"
   },
   "season_leaders": [
     {
       "athlete_display_name": "Mikayla Blakes",
       "team_short_display_name": "Vanderbilt",
-      "games_played": 25,
-      "ppg": 25.9,
+      "games_played": 26,
+      "ppg": 26.2,
       "rpg": 3.8,
       "apg": 4.6,
-      "total_pts": 648
+      "total_pts": 682
     },
     {
       "athlete_display_name": "Audi Crooks",
@@ -32,6 +32,15 @@
       "total_pts": 597
     },
     {
+      "athlete_display_name": "Mia Nicastro",
+      "team_short_display_name": "W Illinois",
+      "games_played": 25,
+      "ppg": 24.4,
+      "rpg": 9.8,
+      "apg": 1.1,
+      "total_pts": 611
+    },
+    {
       "athlete_display_name": "Shay Ciezki",
       "team_short_display_name": "Indiana",
       "games_played": 25,
@@ -41,31 +50,13 @@
       "total_pts": 602
     },
     {
-      "athlete_display_name": "Mia Nicastro",
-      "team_short_display_name": "W Illinois",
-      "games_played": 24,
-      "ppg": 23.9,
-      "rpg": 9.9,
-      "apg": 1.1,
-      "total_pts": 574
-    },
-    {
       "athlete_display_name": "Hannah Wickstrom",
       "team_short_display_name": "UC Riverside",
-      "games_played": 20,
-      "ppg": 23.3,
-      "rpg": 7,
-      "apg": 2.6,
-      "total_pts": 466
-    },
-    {
-      "athlete_display_name": "Grace Sullivan",
-      "team_short_display_name": "Northwestern",
-      "games_played": 22,
-      "ppg": 22.5,
-      "rpg": 6.6,
-      "apg": 1.1,
-      "total_pts": 494
+      "games_played": 21,
+      "ppg": 23.5,
+      "rpg": 7.2,
+      "apg": 2.8,
+      "total_pts": 493
     },
     {
       "athlete_display_name": "Jaloni Cambridge",
@@ -77,6 +68,15 @@
       "total_pts": 563
     },
     {
+      "athlete_display_name": "Liv McGill",
+      "team_short_display_name": "Florida",
+      "games_played": 25,
+      "ppg": 22.5,
+      "rpg": 6.2,
+      "apg": 6,
+      "total_pts": 562
+    },
+    {
       "athlete_display_name": "Maggie Doogan",
       "team_short_display_name": "Richmond",
       "games_played": 25,
@@ -86,40 +86,40 @@
       "total_pts": 558
     },
     {
-      "athlete_display_name": "Liv McGill",
-      "team_short_display_name": "Florida",
-      "games_played": 24,
-      "ppg": 22.2,
-      "rpg": 6.1,
-      "apg": 5.9,
-      "total_pts": 533
-    },
-    {
       "athlete_display_name": "Naomi White",
       "team_short_display_name": "N Arizona",
-      "games_played": 25,
-      "ppg": 22.2,
-      "rpg": 5.3,
+      "games_played": 26,
+      "ppg": 22.3,
+      "rpg": 5.4,
       "apg": 2,
-      "total_pts": 556
+      "total_pts": 581
+    },
+    {
+      "athlete_display_name": "Grace Sullivan",
+      "team_short_display_name": "Northwestern",
+      "games_played": 23,
+      "ppg": 22.2,
+      "rpg": 6.4,
+      "apg": 1.1,
+      "total_pts": 510
     },
     {
       "athlete_display_name": "Adrianna Smith",
       "team_short_display_name": "Maine",
-      "games_played": 24,
-      "ppg": 21.7,
-      "rpg": 9.7,
-      "apg": 4.6,
-      "total_pts": 520
+      "games_played": 25,
+      "ppg": 21.8,
+      "rpg": 9.8,
+      "apg": 4.5,
+      "total_pts": 545
     },
     {
       "athlete_display_name": "Brooklyn Meyer",
       "team_short_display_name": "S Dakota St",
-      "games_played": 24,
+      "games_played": 25,
       "ppg": 21.5,
-      "rpg": 7.4,
+      "rpg": 7.7,
       "apg": 2.8,
-      "total_pts": 516
+      "total_pts": 537
     },
     {
       "athlete_display_name": "Jaliya Davis",
@@ -140,6 +140,33 @@
       "total_pts": 485
     },
     {
+      "athlete_display_name": "Kiyomi McMiller",
+      "team_short_display_name": "Penn State",
+      "games_played": 25,
+      "ppg": 20.6,
+      "rpg": 4.9,
+      "apg": 4.4,
+      "total_pts": 514
+    },
+    {
+      "athlete_display_name": "Olivia Miles",
+      "team_short_display_name": "TCU",
+      "games_played": 26,
+      "ppg": 20.5,
+      "rpg": 6.8,
+      "apg": 6.6,
+      "total_pts": 533
+    },
+    {
+      "athlete_display_name": "Taliah Scott",
+      "team_short_display_name": "Baylor",
+      "games_played": 25,
+      "ppg": 20.4,
+      "rpg": 2.7,
+      "apg": 3,
+      "total_pts": 509
+    },
+    {
       "athlete_display_name": "Joyce Edwards",
       "team_short_display_name": "South Carolina",
       "games_played": 26,
@@ -149,22 +176,13 @@
       "total_pts": 529
     },
     {
-      "athlete_display_name": "Taliah Scott",
-      "team_short_display_name": "Baylor",
-      "games_played": 24,
-      "ppg": 20.3,
-      "rpg": 2.7,
-      "apg": 2.9,
-      "total_pts": 487
-    },
-    {
-      "athlete_display_name": "Kiyomi McMiller",
-      "team_short_display_name": "Penn State",
-      "games_played": 24,
-      "ppg": 20.2,
-      "rpg": 5,
-      "apg": 4.5,
-      "total_pts": 484
+      "athlete_display_name": "Cotie McMahon",
+      "team_short_display_name": "Ole Miss",
+      "games_played": 25,
+      "ppg": 19.9,
+      "rpg": 5.8,
+      "apg": 2.8,
+      "total_pts": 497
     },
     {
       "athlete_display_name": "Madi Morson",
@@ -174,24 +192,6 @@
       "rpg": 4,
       "apg": 1.8,
       "total_pts": 458
-    },
-    {
-      "athlete_display_name": "Cotie McMahon",
-      "team_short_display_name": "Ole Miss",
-      "games_played": 24,
-      "ppg": 19.8,
-      "rpg": 5.9,
-      "apg": 2.7,
-      "total_pts": 476
-    },
-    {
-      "athlete_display_name": "Olivia Miles",
-      "team_short_display_name": "TCU",
-      "games_played": 25,
-      "ppg": 19.7,
-      "rpg": 6.8,
-      "apg": 6.7,
-      "total_pts": 493
     },
     {
       "athlete_display_name": "Amaris Baker",
@@ -214,11 +214,11 @@
     {
       "athlete_display_name": "Lauren Whittaker",
       "team_short_display_name": "Gonzaga",
-      "games_played": 25,
+      "games_played": 26,
       "ppg": 19.5,
-      "rpg": 10.1,
+      "rpg": 10.2,
       "apg": 1.2,
-      "total_pts": 488
+      "total_pts": 507
     },
     {
       "athlete_display_name": "Riley Weiss",
@@ -239,31 +239,13 @@
       "total_pts": 484
     },
     {
-      "athlete_display_name": "Gracie Merkle",
-      "team_short_display_name": "Penn State",
-      "games_played": 21,
-      "ppg": 19.3,
-      "rpg": 8.4,
-      "apg": 1.2,
-      "total_pts": 405
-    },
-    {
-      "athlete_display_name": "Kymora Johnson",
-      "team_short_display_name": "Virginia",
-      "games_played": 24,
-      "ppg": 19.2,
-      "rpg": 4.3,
-      "apg": 6.2,
-      "total_pts": 460
-    },
-    {
       "athlete_display_name": "Grace Slaughter",
       "team_short_display_name": "Missouri",
-      "games_played": 26,
+      "games_played": 27,
       "ppg": 19.1,
-      "rpg": 7.2,
+      "rpg": 7,
       "apg": 1.8,
-      "total_pts": 496
+      "total_pts": 516
     },
     {
       "athlete_display_name": "Sarah Strong",
@@ -275,13 +257,13 @@
       "total_pts": 477
     },
     {
-      "athlete_display_name": "Kaety L'Amoreaux",
-      "team_short_display_name": "Fairfield",
-      "games_played": 24,
+      "athlete_display_name": "Gracie Merkle",
+      "team_short_display_name": "Penn State",
+      "games_played": 22,
       "ppg": 19,
-      "rpg": 5,
-      "apg": 4.6,
-      "total_pts": 456
+      "rpg": 8.3,
+      "apg": 1.2,
+      "total_pts": 418
     },
     {
       "athlete_display_name": "Sharnecce Currie-Jelks",
@@ -302,6 +284,15 @@
       "total_pts": 417
     },
     {
+      "athlete_display_name": "Olivia Olson",
+      "team_short_display_name": "Michigan",
+      "games_played": 25,
+      "ppg": 18.9,
+      "rpg": 6,
+      "apg": 2.6,
+      "total_pts": 473
+    },
+    {
       "athlete_display_name": "Berry Wallace",
       "team_short_display_name": "Illinois",
       "games_played": 25,
@@ -311,22 +302,22 @@
       "total_pts": 470
     },
     {
-      "athlete_display_name": "Olivia Olson",
-      "team_short_display_name": "Michigan",
-      "games_played": 24,
+      "athlete_display_name": "Kymora Johnson",
+      "team_short_display_name": "Virginia",
+      "games_played": 25,
       "ppg": 18.8,
-      "rpg": 5.9,
-      "apg": 2.4,
-      "total_pts": 452
+      "rpg": 4.4,
+      "apg": 6.3,
+      "total_pts": 470
     },
     {
       "athlete_display_name": "Timaya Lewis-Eutsey",
       "team_short_display_name": "Marshall",
-      "games_played": 26,
+      "games_played": 27,
       "ppg": 18.8,
-      "rpg": 3.5,
+      "rpg": 3.7,
       "apg": 4,
-      "total_pts": 488
+      "total_pts": 507
     },
     {
       "athlete_display_name": "Macy Spencer",
@@ -338,6 +329,15 @@
       "total_pts": 468
     },
     {
+      "athlete_display_name": "Madison Booker",
+      "team_short_display_name": "Texas",
+      "games_played": 26,
+      "ppg": 18.7,
+      "rpg": 6.7,
+      "apg": 4,
+      "total_pts": 485
+    },
+    {
       "athlete_display_name": "Peyton McDaniel",
       "team_short_display_name": "James Madison",
       "games_played": 27,
@@ -347,22 +347,22 @@
       "total_pts": 505
     },
     {
-      "athlete_display_name": "Alejandra Zuniga",
-      "team_short_display_name": "NJIT",
-      "games_played": 18,
-      "ppg": 18.6,
-      "rpg": 4,
-      "apg": 4.3,
-      "total_pts": 335
-    },
-    {
-      "athlete_display_name": "Madison Booker",
-      "team_short_display_name": "Texas",
+      "athlete_display_name": "Kaety L'Amoreaux",
+      "team_short_display_name": "Fairfield",
       "games_played": 25,
       "ppg": 18.6,
-      "rpg": 6.6,
-      "apg": 4,
+      "rpg": 5.1,
+      "apg": 4.5,
       "total_pts": 465
+    },
+    {
+      "athlete_display_name": "Alejandra Zuniga",
+      "team_short_display_name": "NJIT",
+      "games_played": 19,
+      "ppg": 18.5,
+      "rpg": 4.1,
+      "apg": 4.2,
+      "total_pts": 351
     },
     {
       "athlete_display_name": "Avery Koenen",
@@ -374,58 +374,31 @@
       "total_pts": 443
     },
     {
-      "athlete_display_name": "Dani Carnegie",
-      "team_short_display_name": "Georgia",
+      "athlete_display_name": "Kaemyn Bekemeier",
+      "team_short_display_name": "Missouri St",
       "games_played": 24,
-      "ppg": 18.5,
-      "rpg": 5.8,
-      "apg": 3.3,
-      "total_pts": 444
+      "ppg": 18.4,
+      "rpg": 8.4,
+      "apg": 1.7,
+      "total_pts": 441
     },
     {
       "athlete_display_name": "Zahirah Walton",
       "team_short_display_name": "George Mason",
       "games_played": 22,
-      "ppg": 18.5,
+      "ppg": 18.4,
       "rpg": 5.7,
       "apg": 2.2,
-      "total_pts": 406
+      "total_pts": 404
     },
     {
       "athlete_display_name": "Aaliyah Chavez",
       "team_short_display_name": "Oklahoma",
-      "games_played": 23,
-      "ppg": 18.3,
-      "rpg": 3.7,
-      "apg": 4,
-      "total_pts": 421
-    },
-    {
-      "athlete_display_name": "Kaemyn Bekemeier",
-      "team_short_display_name": "Missouri St",
-      "games_played": 23,
-      "ppg": 18.3,
-      "rpg": 8.3,
-      "apg": 1.7,
-      "total_pts": 420
-    },
-    {
-      "athlete_display_name": "Rhema Collins",
-      "team_short_display_name": "FIU",
-      "games_played": 19,
-      "ppg": 18.3,
-      "rpg": 9.9,
-      "apg": 1.5,
-      "total_pts": 347
-    },
-    {
-      "athlete_display_name": "Hunter Hernandez",
-      "team_short_display_name": "UC Irvine",
-      "games_played": 23,
+      "games_played": 24,
       "ppg": 18.2,
-      "rpg": 6.4,
-      "apg": 1.9,
-      "total_pts": 419
+      "rpg": 3.7,
+      "apg": 4.2,
+      "total_pts": 437
     },
     {
       "athlete_display_name": "Kadidia Toure",
@@ -437,6 +410,15 @@
       "total_pts": 400
     },
     {
+      "athlete_display_name": "Dani Carnegie",
+      "team_short_display_name": "Georgia",
+      "games_played": 25,
+      "ppg": 18.1,
+      "rpg": 5.6,
+      "apg": 3.2,
+      "total_pts": 453
+    },
+    {
       "athlete_display_name": "Grace Arnolie",
       "team_short_display_name": "Brown",
       "games_played": 17,
@@ -446,6 +428,15 @@
       "total_pts": 308
     },
     {
+      "athlete_display_name": "Payton Hull",
+      "team_short_display_name": "Abilene Chrstn",
+      "games_played": 25,
+      "ppg": 18.1,
+      "rpg": 4,
+      "apg": 2.8,
+      "total_pts": 453
+    },
+    {
       "athlete_display_name": "Taylee Chirrick",
       "team_short_display_name": "Montana St",
       "games_played": 23,
@@ -453,88 +444,97 @@
       "rpg": 7.3,
       "apg": 3.7,
       "total_pts": 417
+    },
+    {
+      "athlete_display_name": "Jasmine Bascoe",
+      "team_short_display_name": "Villanova",
+      "games_played": 25,
+      "ppg": 18,
+      "rpg": 3.6,
+      "apg": 4.8,
+      "total_pts": 450
     }
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Meadow Roland",
-      "team_short_display_name": "UNLV",
-      "points": 30,
-      "rebounds": 12,
-      "assists": 5,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Madi Morson",
-      "team_short_display_name": "C Michigan",
-      "points": 29,
-      "rebounds": 3,
-      "assists": 4,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Malene Pedersen",
-      "team_short_display_name": "Wyoming",
-      "points": 26,
-      "rebounds": 5,
-      "assists": 4,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Colbi Maples",
-      "team_short_display_name": "Cleveland St",
-      "points": 26,
-      "rebounds": 2,
-      "assists": 3,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Shaena Brew",
-      "team_short_display_name": "Akron",
-      "points": 26,
-      "rebounds": 5,
-      "assists": 4,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Henna Sandvik",
-      "team_short_display_name": "Wyoming",
-      "points": 25,
+      "athlete_display_name": "Olivia Miles",
+      "team_short_display_name": "TCU",
+      "points": 40,
       "rebounds": 6,
       "assists": 3,
-      "game_date": "2026-02-11"
+      "game_date": "2026-02-12"
     },
     {
-      "athlete_display_name": "Coryn Watts",
-      "team_short_display_name": "Denver",
-      "points": 25,
-      "rebounds": 4,
-      "assists": 4,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Maddy Skorupski",
-      "team_short_display_name": "Green Bay",
-      "points": 25,
-      "rebounds": 8,
-      "assists": 5,
-      "game_date": "2026-02-11"
-    },
-    {
-      "athlete_display_name": "Ayanna-Sarai Darrington",
-      "team_short_display_name": "C Michigan",
-      "points": 25,
-      "rebounds": 7,
+      "athlete_display_name": "Mia Nicastro",
+      "team_short_display_name": "W Illinois",
+      "points": 37,
+      "rebounds": 6,
       "assists": 0,
-      "game_date": "2026-02-11"
+      "game_date": "2026-02-12"
     },
     {
-      "athlete_display_name": "Sarai Estupiñan",
-      "team_short_display_name": "Omaha",
-      "points": 24,
-      "rebounds": 1,
+      "athlete_display_name": "Mikayla Blakes",
+      "team_short_display_name": "Vanderbilt",
+      "points": 34,
+      "rebounds": 4,
+      "assists": 3,
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Mary McMillan",
+      "team_short_display_name": "Stetson",
+      "points": 33,
+      "rebounds": 3,
+      "assists": 2,
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Ryley Goebel",
+      "team_short_display_name": "Northern Iowa",
+      "points": 32,
+      "rebounds": 16,
+      "assists": 2,
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Brooklyn Fely",
+      "team_short_display_name": "Southern Utah",
+      "points": 31,
+      "rebounds": 13,
       "assists": 1,
-      "game_date": "2026-02-11"
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Mia Moore",
+      "team_short_display_name": "Clemson",
+      "points": 31,
+      "rebounds": 6,
+      "assists": 3,
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Kiyomi McMiller",
+      "team_short_display_name": "Penn State",
+      "points": 30,
+      "rebounds": 3,
+      "assists": 2,
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Maya Makalusky",
+      "team_short_display_name": "Indiana",
+      "points": 29,
+      "rebounds": 6,
+      "assists": 0,
+      "game_date": "2026-02-12"
+    },
+    {
+      "athlete_display_name": "Liv McGill",
+      "team_short_display_name": "Florida",
+      "points": 29,
+      "rebounds": 7,
+      "assists": 7,
+      "game_date": "2026-02-12"
     }
   ]
 }
