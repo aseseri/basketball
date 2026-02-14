@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-02-13 15:48:32.075201",
-    "latest_game_date": "2026-02-12"
+    "updated_at": "2026-02-14 15:32:29.77234",
+    "latest_game_date": "2026-02-13"
   },
   "season_leaders": [
     {
@@ -133,11 +133,11 @@
     {
       "athlete_display_name": "Halli Poock",
       "team_short_display_name": "Murray St",
-      "games_played": 23,
-      "ppg": 21.1,
-      "rpg": 2.7,
+      "games_played": 24,
+      "ppg": 21.3,
+      "rpg": 2.6,
       "apg": 4.2,
-      "total_pts": 485
+      "total_pts": 511
     },
     {
       "athlete_display_name": "Kiyomi McMiller",
@@ -196,11 +196,20 @@
     {
       "athlete_display_name": "Amaris Baker",
       "team_short_display_name": "Drexel",
-      "games_played": 22,
-      "ppg": 19.5,
-      "rpg": 3.9,
+      "games_played": 23,
+      "ppg": 19.8,
+      "rpg": 4,
       "apg": 1.6,
-      "total_pts": 429
+      "total_pts": 456
+    },
+    {
+      "athlete_display_name": "Riley Weiss",
+      "team_short_display_name": "Columbia",
+      "games_played": 22,
+      "ppg": 19.6,
+      "rpg": 3.2,
+      "apg": 2.2,
+      "total_pts": 431
     },
     {
       "athlete_display_name": "Coryn Watts",
@@ -219,15 +228,6 @@
       "rpg": 10.2,
       "apg": 1.2,
       "total_pts": 507
-    },
-    {
-      "athlete_display_name": "Riley Weiss",
-      "team_short_display_name": "Columbia",
-      "games_played": 21,
-      "ppg": 19.4,
-      "rpg": 3.3,
-      "apg": 2.2,
-      "total_pts": 408
     },
     {
       "athlete_display_name": "Sayvia Sellers",
@@ -257,6 +257,15 @@
       "total_pts": 477
     },
     {
+      "athlete_display_name": "Taryn Barbot",
+      "team_short_display_name": "Charleston",
+      "games_played": 23,
+      "ppg": 19.1,
+      "rpg": 6,
+      "apg": 3.5,
+      "total_pts": 439
+    },
+    {
       "athlete_display_name": "Gracie Merkle",
       "team_short_display_name": "Penn State",
       "games_played": 22,
@@ -264,24 +273,6 @@
       "rpg": 8.3,
       "apg": 1.2,
       "total_pts": 418
-    },
-    {
-      "athlete_display_name": "Sharnecce Currie-Jelks",
-      "team_short_display_name": "Murray St",
-      "games_played": 23,
-      "ppg": 19,
-      "rpg": 11.5,
-      "apg": 1.3,
-      "total_pts": 436
-    },
-    {
-      "athlete_display_name": "Taryn Barbot",
-      "team_short_display_name": "Charleston",
-      "games_played": 22,
-      "ppg": 19,
-      "rpg": 5.8,
-      "apg": 3.5,
-      "total_pts": 417
     },
     {
       "athlete_display_name": "Olivia Olson",
@@ -309,6 +300,15 @@
       "rpg": 4.4,
       "apg": 6.3,
       "total_pts": 470
+    },
+    {
+      "athlete_display_name": "Sharnecce Currie-Jelks",
+      "team_short_display_name": "Murray St",
+      "games_played": 24,
+      "ppg": 18.8,
+      "rpg": 11.5,
+      "apg": 1.2,
+      "total_pts": 451
     },
     {
       "athlete_display_name": "Timaya Lewis-Eutsey",
@@ -401,6 +401,15 @@
       "total_pts": 437
     },
     {
+      "athlete_display_name": "Grace Arnolie",
+      "team_short_display_name": "Brown",
+      "games_played": 18,
+      "ppg": 18.2,
+      "rpg": 3.8,
+      "apg": 3.6,
+      "total_pts": 327
+    },
+    {
       "athlete_display_name": "Kadidia Toure",
       "team_short_display_name": "Long Island",
       "games_played": 22,
@@ -410,6 +419,15 @@
       "total_pts": 400
     },
     {
+      "athlete_display_name": "Kaylen Nelson",
+      "team_short_display_name": "Bradley",
+      "games_played": 25,
+      "ppg": 18.2,
+      "rpg": 4.7,
+      "apg": 1.5,
+      "total_pts": 456
+    },
+    {
       "athlete_display_name": "Dani Carnegie",
       "team_short_display_name": "Georgia",
       "games_played": 25,
@@ -417,15 +435,6 @@
       "rpg": 5.6,
       "apg": 3.2,
       "total_pts": 453
-    },
-    {
-      "athlete_display_name": "Grace Arnolie",
-      "team_short_display_name": "Brown",
-      "games_played": 17,
-      "ppg": 18.1,
-      "rpg": 3.8,
-      "apg": 3.6,
-      "total_pts": 308
     },
     {
       "athlete_display_name": "Payton Hull",
@@ -444,97 +453,88 @@
       "rpg": 7.3,
       "apg": 3.7,
       "total_pts": 417
-    },
-    {
-      "athlete_display_name": "Jasmine Bascoe",
-      "team_short_display_name": "Villanova",
-      "games_played": 25,
-      "ppg": 18,
-      "rpg": 3.6,
-      "apg": 4.8,
-      "total_pts": 450
     }
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Olivia Miles",
-      "team_short_display_name": "TCU",
-      "points": 40,
-      "rebounds": 6,
-      "assists": 3,
-      "game_date": "2026-02-12"
-    },
-    {
-      "athlete_display_name": "Mia Nicastro",
-      "team_short_display_name": "W Illinois",
-      "points": 37,
-      "rebounds": 6,
-      "assists": 0,
-      "game_date": "2026-02-12"
-    },
-    {
-      "athlete_display_name": "Mikayla Blakes",
-      "team_short_display_name": "Vanderbilt",
-      "points": 34,
+      "athlete_display_name": "Karlee White",
+      "team_short_display_name": "Harvard",
+      "points": 35,
       "rebounds": 4,
-      "assists": 3,
-      "game_date": "2026-02-12"
+      "assists": 2,
+      "game_date": "2026-02-13"
     },
     {
-      "athlete_display_name": "Mary McMillan",
-      "team_short_display_name": "Stetson",
+      "athlete_display_name": "Rori Cox",
+      "team_short_display_name": "UNC Wilmington",
       "points": 33,
-      "rebounds": 3,
-      "assists": 2,
-      "game_date": "2026-02-12"
+      "rebounds": 9,
+      "assists": 5,
+      "game_date": "2026-02-13"
     },
     {
-      "athlete_display_name": "Ryley Goebel",
-      "team_short_display_name": "Northern Iowa",
+      "athlete_display_name": "Ciniya Moore",
+      "team_short_display_name": "Yale",
       "points": 32,
-      "rebounds": 16,
-      "assists": 2,
-      "game_date": "2026-02-12"
-    },
-    {
-      "athlete_display_name": "Brooklyn Fely",
-      "team_short_display_name": "Southern Utah",
-      "points": 31,
-      "rebounds": 13,
+      "rebounds": 2,
       "assists": 1,
-      "game_date": "2026-02-12"
+      "game_date": "2026-02-13"
     },
     {
-      "athlete_display_name": "Mia Moore",
-      "team_short_display_name": "Clemson",
-      "points": 31,
-      "rebounds": 6,
-      "assists": 3,
-      "game_date": "2026-02-12"
-    },
-    {
-      "athlete_display_name": "Kiyomi McMiller",
-      "team_short_display_name": "Penn State",
+      "athlete_display_name": "Alayna Kraus",
+      "team_short_display_name": "S Illinois",
       "points": 30,
-      "rebounds": 3,
+      "rebounds": 2,
+      "assists": 3,
+      "game_date": "2026-02-13"
+    },
+    {
+      "athlete_display_name": "Amaris Baker",
+      "team_short_display_name": "Drexel",
+      "points": 27,
+      "rebounds": 5,
       "assists": 2,
-      "game_date": "2026-02-12"
+      "game_date": "2026-02-13"
     },
     {
-      "athlete_display_name": "Maya Makalusky",
-      "team_short_display_name": "Indiana",
-      "points": 29,
-      "rebounds": 6,
-      "assists": 0,
-      "game_date": "2026-02-12"
+      "athlete_display_name": "Halli Poock",
+      "team_short_display_name": "Murray St",
+      "points": 26,
+      "rebounds": 1,
+      "assists": 6,
+      "game_date": "2026-02-13"
     },
     {
-      "athlete_display_name": "Liv McGill",
-      "team_short_display_name": "Florida",
-      "points": 29,
+      "athlete_display_name": "Haven Ford",
+      "team_short_display_name": "Murray St",
+      "points": 25,
       "rebounds": 7,
       "assists": 7,
-      "game_date": "2026-02-12"
+      "game_date": "2026-02-13"
+    },
+    {
+      "athlete_display_name": "Perri Page",
+      "team_short_display_name": "Columbia",
+      "points": 25,
+      "rebounds": 10,
+      "assists": 1,
+      "game_date": "2026-02-13"
+    },
+    {
+      "athlete_display_name": "Rachel Kaus",
+      "team_short_display_name": "Cornell",
+      "points": 25,
+      "rebounds": 9,
+      "assists": 1,
+      "game_date": "2026-02-13"
+    },
+    {
+      "athlete_display_name": "Kaylen Nelson",
+      "team_short_display_name": "Bradley",
+      "points": 24,
+      "rebounds": 11,
+      "assists": 4,
+      "game_date": "2026-02-13"
     }
   ]
 }
