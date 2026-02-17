@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-02-16 15:47:10.470164",
-    "latest_game_date": "2026-02-15"
+    "updated_at": "2026-02-17 15:59:48.826972",
+    "latest_game_date": "2026-02-16"
   },
   "season_leaders": [
     {
@@ -77,15 +77,6 @@
       "total_pts": 562
     },
     {
-      "athlete_display_name": "Maggie Doogan",
-      "team_short_display_name": "Richmond",
-      "games_played": 26,
-      "ppg": 22.5,
-      "rpg": 8.1,
-      "apg": 4.1,
-      "total_pts": 584
-    },
-    {
       "athlete_display_name": "Adrianna Smith",
       "team_short_display_name": "Maine",
       "games_played": 26,
@@ -102,6 +93,15 @@
       "rpg": 6.5,
       "apg": 1.1,
       "total_pts": 526
+    },
+    {
+      "athlete_display_name": "Maggie Doogan",
+      "team_short_display_name": "Richmond",
+      "games_played": 27,
+      "ppg": 21.9,
+      "rpg": 8.1,
+      "apg": 4,
+      "total_pts": 591
     },
     {
       "athlete_display_name": "Naomi White",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Theresa Hagans Jr.",
-      "team_short_display_name": "Pitt",
-      "points": 33,
-      "rebounds": 3,
-      "assists": 6,
-      "game_date": "2026-02-15"
+      "athlete_display_name": "Ava Heiden",
+      "team_short_display_name": "Iowa",
+      "points": 27,
+      "rebounds": 11,
+      "assists": 3,
+      "game_date": "2026-02-16"
     },
     {
-      "athlete_display_name": "Kiyomi McMiller",
-      "team_short_display_name": "Penn State",
-      "points": 32,
-      "rebounds": 12,
-      "assists": 4,
-      "game_date": "2026-02-15"
+      "athlete_display_name": "Tiani Ellison",
+      "team_short_display_name": "E Texas A&M",
+      "points": 21,
+      "rebounds": 8,
+      "assists": 0,
+      "game_date": "2026-02-16"
     },
     {
-      "athlete_display_name": "Halli Poock",
-      "team_short_display_name": "Murray St",
-      "points": 32,
+      "athlete_display_name": "Taleyah Jones",
+      "team_short_display_name": "Arkansas",
+      "points": 18,
       "rebounds": 4,
-      "assists": 4,
-      "game_date": "2026-02-15"
+      "assists": 2,
+      "game_date": "2026-02-16"
     },
     {
-      "athlete_display_name": "India Johnston",
-      "team_short_display_name": "Towson",
-      "points": 31,
-      "rebounds": 2,
-      "assists": 4,
-      "game_date": "2026-02-15"
+      "athlete_display_name": "Vernell Atamah",
+      "team_short_display_name": "N'Western St",
+      "points": 18,
+      "rebounds": 6,
+      "assists": 1,
+      "game_date": "2026-02-16"
     },
     {
-      "athlete_display_name": "Talaysia Cooper",
-      "team_short_display_name": "Tennessee",
-      "points": 29,
+      "athlete_display_name": "Tiara Abron",
+      "team_short_display_name": "N'Western St",
+      "points": 17,
+      "rebounds": 7,
+      "assists": 0,
+      "game_date": "2026-02-16"
+    },
+    {
+      "athlete_display_name": "Shaunice Reed",
+      "team_short_display_name": "SC State",
+      "points": 17,
+      "rebounds": 3,
+      "assists": 1,
+      "game_date": "2026-02-16"
+    },
+    {
+      "athlete_display_name": "Micah Gray",
+      "team_short_display_name": "Oklahoma St",
+      "points": 17,
+      "rebounds": 3,
+      "assists": 0,
+      "game_date": "2026-02-16"
+    },
+    {
+      "athlete_display_name": "Taylor Stremlow",
+      "team_short_display_name": "Iowa",
+      "points": 17,
       "rebounds": 1,
       "assists": 2,
-      "game_date": "2026-02-15"
+      "game_date": "2026-02-16"
     },
     {
-      "athlete_display_name": "Jaloni Cambridge",
-      "team_short_display_name": "Ohio State",
-      "points": 29,
-      "rebounds": 8,
-      "assists": 5,
-      "game_date": "2026-02-15"
-    },
-    {
-      "athlete_display_name": "Avery Koenen",
-      "team_short_display_name": "N Dakota St",
-      "points": 29,
-      "rebounds": 13,
-      "assists": 1,
-      "game_date": "2026-02-15"
-    },
-    {
-      "athlete_display_name": "Dani Carnegie",
-      "team_short_display_name": "Georgia",
-      "points": 29,
-      "rebounds": 8,
-      "assists": 3,
-      "game_date": "2026-02-15"
-    },
-    {
-      "athlete_display_name": "Clara Strack",
-      "team_short_display_name": "Kentucky",
-      "points": 28,
+      "athlete_display_name": "Jaylah Lampley",
+      "team_short_display_name": "Mississippi St",
+      "points": 16,
       "rebounds": 9,
-      "assists": 1,
-      "game_date": "2026-02-15"
+      "assists": 2,
+      "game_date": "2026-02-16"
     },
     {
-      "athlete_display_name": "Mikayla Blakes",
-      "team_short_display_name": "Vanderbilt",
-      "points": 27,
-      "rebounds": 1,
-      "assists": 6,
-      "game_date": "2026-02-15"
+      "athlete_display_name": "Ella Brubaker",
+      "team_short_display_name": "Seattle U",
+      "points": 16,
+      "rebounds": 3,
+      "assists": 0,
+      "game_date": "2026-02-16"
     }
   ]
 }
