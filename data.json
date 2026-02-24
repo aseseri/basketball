@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-02-23 15:53:05.888243",
-    "latest_game_date": "2026-02-22"
+    "updated_at": "2026-02-24 16:06:39.548976",
+    "latest_game_date": "2026-02-23"
   },
   "season_leaders": [
     {
@@ -149,15 +149,6 @@
       "total_pts": 596
     },
     {
-      "athlete_display_name": "Taliah Scott",
-      "team_short_display_name": "Baylor",
-      "games_played": 28,
-      "ppg": 20.4,
-      "rpg": 2.6,
-      "apg": 2.9,
-      "total_pts": 570
-    },
-    {
       "athlete_display_name": "Olivia Miles",
       "team_short_display_name": "TCU",
       "games_played": 29,
@@ -165,6 +156,15 @@
       "rpg": 6.9,
       "apg": 6.6,
       "total_pts": 589
+    },
+    {
+      "athlete_display_name": "Taliah Scott",
+      "team_short_display_name": "Baylor",
+      "games_played": 29,
+      "ppg": 20.3,
+      "rpg": 2.6,
+      "apg": 2.9,
+      "total_pts": 590
     },
     {
       "athlete_display_name": "Joyce Edwards",
@@ -392,15 +392,6 @@
       "total_pts": 519
     },
     {
-      "athlete_display_name": "Dani Carnegie",
-      "team_short_display_name": "Georgia",
-      "games_played": 27,
-      "ppg": 18.4,
-      "rpg": 5.7,
-      "apg": 3.2,
-      "total_pts": 496
-    },
-    {
       "athlete_display_name": "Jasmine Bascoe",
       "team_short_display_name": "Villanova",
       "games_played": 28,
@@ -417,6 +408,15 @@
       "rpg": 11.9,
       "apg": 1.3,
       "total_pts": 498
+    },
+    {
+      "athlete_display_name": "Dani Carnegie",
+      "team_short_display_name": "Georgia",
+      "games_played": 28,
+      "ppg": 18.3,
+      "rpg": 5.6,
+      "apg": 3.1,
+      "total_pts": 513
     },
     {
       "athlete_display_name": "Hunter Hernandez",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Mikayla Blakes",
-      "team_short_display_name": "Vanderbilt",
-      "points": 35,
-      "rebounds": 5,
-      "assists": 3,
-      "game_date": "2026-02-22"
-    },
-    {
-      "athlete_display_name": "Jessica Timmons",
-      "team_short_display_name": "Alabama",
-      "points": 34,
-      "rebounds": 5,
-      "assists": 2,
-      "game_date": "2026-02-22"
-    },
-    {
-      "athlete_display_name": "Jaloni Cambridge",
-      "team_short_display_name": "Ohio State",
-      "points": 33,
-      "rebounds": 6,
-      "assists": 0,
-      "game_date": "2026-02-22"
-    },
-    {
-      "athlete_display_name": "Jazzy Davidson",
-      "team_short_display_name": "USC",
-      "points": 32,
-      "rebounds": 6,
-      "assists": 4,
-      "game_date": "2026-02-22"
-    },
-    {
-      "athlete_display_name": "Hannah Hidalgo",
-      "team_short_display_name": "Notre Dame",
-      "points": 31,
-      "rebounds": 9,
-      "assists": 3,
-      "game_date": "2026-02-22"
-    },
-    {
-      "athlete_display_name": "Halli Poock",
-      "team_short_display_name": "Murray St",
-      "points": 31,
+      "athlete_display_name": "Taliah Scott",
+      "team_short_display_name": "Baylor",
+      "points": 20,
       "rebounds": 3,
-      "assists": 3,
-      "game_date": "2026-02-22"
+      "assists": 2,
+      "game_date": "2026-02-23"
     },
     {
-      "athlete_display_name": "Payton Hull",
-      "team_short_display_name": "Abilene Chrstn",
-      "points": 30,
+      "athlete_display_name": "Shaniah Nunn",
+      "team_short_display_name": "Grambling",
+      "points": 19,
+      "rebounds": 9,
+      "assists": 2,
+      "game_date": "2026-02-23"
+    },
+    {
+      "athlete_display_name": "Dani Carnegie",
+      "team_short_display_name": "Georgia",
+      "points": 17,
       "rebounds": 4,
       "assists": 2,
-      "game_date": "2026-02-22"
+      "game_date": "2026-02-23"
     },
     {
-      "athlete_display_name": "Tori McKinney",
-      "team_short_display_name": "Minnesota",
-      "points": 29,
-      "rebounds": 3,
-      "assists": 4,
-      "game_date": "2026-02-22"
-    },
-    {
-      "athlete_display_name": "Ehis Etute",
-      "team_short_display_name": "Oregon",
-      "points": 27,
-      "rebounds": 17,
+      "athlete_display_name": "Sydnei Marshall",
+      "team_short_display_name": "Miss Valley St",
+      "points": 17,
+      "rebounds": 5,
       "assists": 2,
-      "game_date": "2026-02-22"
+      "game_date": "2026-02-23"
     },
     {
-      "athlete_display_name": "Olivia Miles",
-      "team_short_display_name": "TCU",
-      "points": 26,
-      "rebounds": 10,
-      "assists": 10,
-      "game_date": "2026-02-22"
+      "athlete_display_name": "Mia Woolfolk",
+      "team_short_display_name": "Georgia",
+      "points": 16,
+      "rebounds": 4,
+      "assists": 3,
+      "game_date": "2026-02-23"
+    },
+    {
+      "athlete_display_name": "Rylie Theuerkauf",
+      "team_short_display_name": "Georgia",
+      "points": 16,
+      "rebounds": 1,
+      "assists": 1,
+      "game_date": "2026-02-23"
+    },
+    {
+      "athlete_display_name": "Khady Leye",
+      "team_short_display_name": "Auburn",
+      "points": 16,
+      "rebounds": 5,
+      "assists": 1,
+      "game_date": "2026-02-23"
+    },
+    {
+      "athlete_display_name": "Bella Fontleroy",
+      "team_short_display_name": "Baylor",
+      "points": 16,
+      "rebounds": 3,
+      "assists": 0,
+      "game_date": "2026-02-23"
+    },
+    {
+      "athlete_display_name": "Jaeda Murphy",
+      "team_short_display_name": "Miss Valley St",
+      "points": 14,
+      "rebounds": 2,
+      "assists": 3,
+      "game_date": "2026-02-23"
+    },
+    {
+      "athlete_display_name": "Ja'Mia Harris",
+      "team_short_display_name": "Auburn",
+      "points": 13,
+      "rebounds": 3,
+      "assists": 3,
+      "game_date": "2026-02-23"
     }
   ]
 }
