@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-02-24 16:06:39.548976",
-    "latest_game_date": "2026-02-23"
+    "updated_at": "2026-02-25 16:08:51.957098",
+    "latest_game_date": "2026-02-24"
   },
   "season_leaders": [
     {
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Taliah Scott",
-      "team_short_display_name": "Baylor",
-      "points": 20,
-      "rebounds": 3,
-      "assists": 2,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Shaniah Nunn",
-      "team_short_display_name": "Grambling",
-      "points": 19,
-      "rebounds": 9,
-      "assists": 2,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Dani Carnegie",
-      "team_short_display_name": "Georgia",
-      "points": 17,
+      "athlete_display_name": "Violet McNece",
+      "team_short_display_name": "Morehead St",
+      "points": 23,
       "rebounds": 4,
-      "assists": 2,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Sydnei Marshall",
-      "team_short_display_name": "Miss Valley St",
-      "points": 17,
-      "rebounds": 5,
-      "assists": 2,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Mia Woolfolk",
-      "team_short_display_name": "Georgia",
-      "points": 16,
-      "rebounds": 4,
-      "assists": 3,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Rylie Theuerkauf",
-      "team_short_display_name": "Georgia",
-      "points": 16,
-      "rebounds": 1,
-      "assists": 1,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Khady Leye",
-      "team_short_display_name": "Auburn",
-      "points": 16,
-      "rebounds": 5,
-      "assists": 1,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Bella Fontleroy",
-      "team_short_display_name": "Baylor",
-      "points": 16,
-      "rebounds": 3,
       "assists": 0,
-      "game_date": "2026-02-23"
+      "game_date": "2026-02-24"
     },
     {
-      "athlete_display_name": "Jaeda Murphy",
-      "team_short_display_name": "Miss Valley St",
-      "points": 14,
-      "rebounds": 2,
-      "assists": 3,
-      "game_date": "2026-02-23"
-    },
-    {
-      "athlete_display_name": "Ja'Mia Harris",
-      "team_short_display_name": "Auburn",
-      "points": 13,
+      "athlete_display_name": "Andi Schissler",
+      "team_short_display_name": "North Texas",
+      "points": 22,
       "rebounds": 3,
+      "assists": 1,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Kristin Williams",
+      "team_short_display_name": "Coastal",
+      "points": 22,
+      "rebounds": 3,
+      "assists": 1,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Lani White",
+      "team_short_display_name": "Utah",
+      "points": 21,
+      "rebounds": 4,
+      "assists": 0,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Kyndall Hunter",
+      "team_short_display_name": "Houston",
+      "points": 21,
+      "rebounds": 1,
       "assists": 3,
-      "game_date": "2026-02-23"
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Dayuna Colvin",
+      "team_short_display_name": "Queens",
+      "points": 21,
+      "rebounds": 1,
+      "assists": 2,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Crystal Henderson",
+      "team_short_display_name": "Georgia St",
+      "points": 21,
+      "rebounds": 6,
+      "assists": 4,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Ali Saunders",
+      "team_short_display_name": "So Indiana",
+      "points": 21,
+      "rebounds": 3,
+      "assists": 5,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Sumayah Sugapong",
+      "team_short_display_name": "Arizona",
+      "points": 20,
+      "rebounds": 5,
+      "assists": 1,
+      "game_date": "2026-02-24"
+    },
+    {
+      "athlete_display_name": "Lainie Douglas",
+      "team_short_display_name": "Missouri St",
+      "points": 20,
+      "rebounds": 6,
+      "assists": 0,
+      "game_date": "2026-02-24"
     }
   ]
 }
