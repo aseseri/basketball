@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-02 15:48:42.978502",
-    "latest_game_date": "2026-03-01"
+    "updated_at": "2026-03-03 15:53:29.441427",
+    "latest_game_date": "2026-03-02"
   },
   "season_leaders": [
     {
@@ -142,11 +142,11 @@
     {
       "athlete_display_name": "Naomi White",
       "team_short_display_name": "N Arizona",
-      "games_played": 30,
+      "games_played": 31,
       "ppg": 20.7,
       "rpg": 5.3,
       "apg": 1.8,
-      "total_pts": 622
+      "total_pts": 643
     },
     {
       "athlete_display_name": "Taliah Scott",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Audi Crooks",
-      "team_short_display_name": "Iowa State",
-      "points": 41,
-      "rebounds": 13,
-      "assists": 2,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Mikayla Blakes",
-      "team_short_display_name": "Vanderbilt",
-      "points": 34,
-      "rebounds": 6,
-      "assists": 4,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Shannon Dowell",
-      "team_short_display_name": "Missouri",
-      "points": 33,
-      "rebounds": 10,
-      "assists": 3,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Talayah Walker",
-      "team_short_display_name": "Georgia Tech",
-      "points": 33,
-      "rebounds": 6,
-      "assists": 1,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Jaloni Cambridge",
-      "team_short_display_name": "Ohio State",
-      "points": 33,
-      "rebounds": 5,
-      "assists": 3,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Hannah Hidalgo",
-      "team_short_display_name": "Notre Dame",
-      "points": 30,
-      "rebounds": 10,
-      "assists": 7,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Sayvia Sellers",
-      "team_short_display_name": "Washington",
-      "points": 29,
-      "rebounds": 5,
+      "athlete_display_name": "Jalayah Ingram",
+      "team_short_display_name": "UT Rio Grande",
+      "points": 31,
+      "rebounds": 8,
       "assists": 5,
-      "game_date": "2026-03-01"
+      "game_date": "2026-03-02"
     },
     {
-      "athlete_display_name": "Carleigh Wenzel",
-      "team_short_display_name": "Virginia Tech",
-      "points": 29,
-      "rebounds": 4,
-      "assists": 4,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Katie Fiso",
-      "team_short_display_name": "Oregon",
-      "points": 27,
-      "rebounds": 5,
-      "assists": 3,
-      "game_date": "2026-03-01"
-    },
-    {
-      "athlete_display_name": "Jordana Codio",
-      "team_short_display_name": "Seton Hall",
-      "points": 27,
-      "rebounds": 9,
+      "athlete_display_name": "Arianna Patton",
+      "team_short_display_name": "McNeese",
+      "points": 30,
+      "rebounds": 1,
       "assists": 1,
-      "game_date": "2026-03-01"
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Avery Strickland",
+      "team_short_display_name": "Belmont",
+      "points": 27,
+      "rebounds": 3,
+      "assists": 3,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Aliyah Collins",
+      "team_short_display_name": "SE Louisiana",
+      "points": 27,
+      "rebounds": 2,
+      "assists": 3,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Ella Gallatin",
+      "team_short_display_name": "E Washington",
+      "points": 26,
+      "rebounds": 2,
+      "assists": 4,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Hope Hassmann",
+      "team_short_display_name": "Idaho",
+      "points": 25,
+      "rebounds": 5,
+      "assists": 1,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Rubi Gray",
+      "team_short_display_name": "Sacramento St",
+      "points": 24,
+      "rebounds": 1,
+      "assists": 1,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Dakota Howard",
+      "team_short_display_name": "McNeese",
+      "points": 24,
+      "rebounds": 11,
+      "assists": 5,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Tierney Madigan",
+      "team_short_display_name": "Milwaukee",
+      "points": 22,
+      "rebounds": 5,
+      "assists": 2,
+      "game_date": "2026-03-02"
+    },
+    {
+      "athlete_display_name": "Kyleigh Brown",
+      "team_short_display_name": "Portland St",
+      "points": 22,
+      "rebounds": 5,
+      "assists": 0,
+      "game_date": "2026-03-02"
     }
   ]
 }
