@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-04 15:47:27.20818",
-    "latest_game_date": "2026-03-03"
+    "updated_at": "2026-03-05 15:58:10.481789",
+    "latest_game_date": "2026-03-04"
   },
   "season_leaders": [
     {
@@ -61,20 +61,20 @@
     {
       "athlete_display_name": "Shay Ciezki",
       "team_short_display_name": "Indiana",
-      "games_played": 29,
+      "games_played": 30,
       "ppg": 23.2,
       "rpg": 3.8,
-      "apg": 2.9,
-      "total_pts": 674
+      "apg": 3,
+      "total_pts": 696
     },
     {
       "athlete_display_name": "Liv McGill",
       "team_short_display_name": "Florida",
-      "games_played": 29,
+      "games_played": 30,
       "ppg": 22.3,
       "rpg": 6,
-      "apg": 6.2,
-      "total_pts": 647
+      "apg": 6.4,
+      "total_pts": 669
     },
     {
       "athlete_display_name": "Adrianna Smith",
@@ -131,15 +131,6 @@
       "total_pts": 599
     },
     {
-      "athlete_display_name": "Jaliya Davis",
-      "team_short_display_name": "Kansas",
-      "games_played": 20,
-      "ppg": 21,
-      "rpg": 6.3,
-      "apg": 1.1,
-      "total_pts": 419
-    },
-    {
       "athlete_display_name": "Naomi White",
       "team_short_display_name": "N Arizona",
       "games_played": 31,
@@ -147,6 +138,15 @@
       "rpg": 5.3,
       "apg": 1.8,
       "total_pts": 643
+    },
+    {
+      "athlete_display_name": "Jaliya Davis",
+      "team_short_display_name": "Kansas",
+      "games_played": 21,
+      "ppg": 20.4,
+      "rpg": 6.5,
+      "apg": 1.2,
+      "total_pts": 429
     },
     {
       "athlete_display_name": "Taliah Scott",
@@ -165,6 +165,15 @@
       "rpg": 6.9,
       "apg": 6.5,
       "total_pts": 623
+    },
+    {
+      "athlete_display_name": "Madi Morson",
+      "team_short_display_name": "C Michigan",
+      "games_played": 29,
+      "ppg": 20,
+      "rpg": 4,
+      "apg": 1.7,
+      "total_pts": 581
     },
     {
       "athlete_display_name": "Coryn Watts",
@@ -201,15 +210,6 @@
       "rpg": 6.3,
       "apg": 2.4,
       "total_pts": 615
-    },
-    {
-      "athlete_display_name": "Madi Morson",
-      "team_short_display_name": "C Michigan",
-      "games_played": 28,
-      "ppg": 19.7,
-      "rpg": 3.9,
-      "apg": 1.6,
-      "total_pts": 552
     },
     {
       "athlete_display_name": "Olivia Olson",
@@ -302,22 +302,13 @@
       "total_pts": 558
     },
     {
-      "athlete_display_name": "Grace Slaughter",
-      "team_short_display_name": "Missouri",
-      "games_played": 31,
-      "ppg": 18.9,
-      "rpg": 6.5,
-      "apg": 1.7,
-      "total_pts": 585
-    },
-    {
       "athlete_display_name": "Berry Wallace",
       "team_short_display_name": "Illinois",
-      "games_played": 29,
-      "ppg": 18.8,
+      "games_played": 30,
+      "ppg": 18.9,
       "rpg": 6.4,
       "apg": 1.8,
-      "total_pts": 544
+      "total_pts": 566
     },
     {
       "athlete_display_name": "Madison Booker",
@@ -354,6 +345,15 @@
       "rpg": 10.1,
       "apg": 2.8,
       "total_pts": 506
+    },
+    {
+      "athlete_display_name": "Grace Slaughter",
+      "team_short_display_name": "Missouri",
+      "games_played": 32,
+      "ppg": 18.6,
+      "rpg": 6.7,
+      "apg": 1.8,
+      "total_pts": 596
     },
     {
       "athlete_display_name": "Hunter Hernandez",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Mikaylah Manley",
-      "team_short_display_name": "Louisiana",
-      "points": 32,
-      "rebounds": 9,
-      "assists": 3,
-      "game_date": "2026-03-03"
-    },
-    {
-      "athlete_display_name": "Vernell Atamah",
-      "team_short_display_name": "N'Western St",
-      "points": 31,
-      "rebounds": 14,
-      "assists": 0,
-      "game_date": "2026-03-03"
-    },
-    {
-      "athlete_display_name": "Danae Powell",
-      "team_short_display_name": "Fresno St",
-      "points": 27,
-      "rebounds": 6,
-      "assists": 5,
-      "game_date": "2026-03-03"
-    },
-    {
-      "athlete_display_name": "Princess Anderson",
-      "team_short_display_name": "Charlotte",
-      "points": 27,
-      "rebounds": 1,
-      "assists": 0,
-      "game_date": "2026-03-03"
-    },
-    {
-      "athlete_display_name": "Milahnie Perry",
-      "team_short_display_name": "Air Force",
-      "points": 26,
-      "rebounds": 4,
+      "athlete_display_name": "Makenzie Luehring",
+      "team_short_display_name": "Oakland",
+      "points": 39,
+      "rebounds": 5,
       "assists": 4,
-      "game_date": "2026-03-03"
+      "game_date": "2026-03-04"
     },
     {
-      "athlete_display_name": "Lauren Banks",
-      "team_short_display_name": "New Orleans",
-      "points": 23,
-      "rebounds": 9,
+      "athlete_display_name": "Izabella Zingaro",
+      "team_short_display_name": "Cleveland St",
+      "points": 29,
+      "rebounds": 10,
       "assists": 0,
-      "game_date": "2026-03-03"
+      "game_date": "2026-03-04"
     },
     {
-      "athlete_display_name": "Dominique Ennis",
-      "team_short_display_name": "Rice",
-      "points": 23,
-      "rebounds": 3,
+      "athlete_display_name": "Madi Morson",
+      "team_short_display_name": "C Michigan",
+      "points": 29,
+      "rebounds": 6,
+      "assists": 4,
+      "game_date": "2026-03-04"
+    },
+    {
+      "athlete_display_name": "Nevaeh Wingate",
+      "team_short_display_name": "N Illinois",
+      "points": 27,
+      "rebounds": 7,
       "assists": 2,
-      "game_date": "2026-03-03"
+      "game_date": "2026-03-04"
     },
     {
-      "athlete_display_name": "Molly Heard",
-      "team_short_display_name": "Lipscomb",
-      "points": 23,
+      "athlete_display_name": "Jordan Holman",
+      "team_short_display_name": "Little Rock",
+      "points": 26,
+      "rebounds": 17,
+      "assists": 1,
+      "game_date": "2026-03-04"
+    },
+    {
+      "athlete_display_name": "Jenna Guyer",
+      "team_short_display_name": "Green Bay",
+      "points": 25,
       "rebounds": 9,
-      "assists": 5,
-      "game_date": "2026-03-03"
+      "assists": 0,
+      "game_date": "2026-03-04"
     },
     {
-      "athlete_display_name": "Destinee Hooks",
-      "team_short_display_name": "New Mexico",
-      "points": 22,
+      "athlete_display_name": "Kendall Carruthers",
+      "team_short_display_name": "Toledo",
+      "points": 25,
+      "rebounds": 4,
+      "assists": 1,
+      "game_date": "2026-03-04"
+    },
+    {
+      "athlete_display_name": "Ny'Ceara Pryor",
+      "team_short_display_name": "Texas A&M",
+      "points": 25,
       "rebounds": 2,
-      "assists": 3,
-      "game_date": "2026-03-03"
+      "assists": 4,
+      "game_date": "2026-03-04"
     },
     {
-      "athlete_display_name": "Skylar Durley",
-      "team_short_display_name": "Nevada",
-      "points": 22,
+      "athlete_display_name": "Ra Shaya Kyle",
+      "team_short_display_name": "Miami",
+      "points": 25,
+      "rebounds": 11,
+      "assists": 2,
+      "game_date": "2026-03-04"
+    },
+    {
+      "athlete_display_name": "Gift Uchenna Okeke",
+      "team_short_display_name": "Wisconsin",
+      "points": 24,
       "rebounds": 6,
-      "assists": 4,
-      "game_date": "2026-03-03"
+      "assists": 1,
+      "game_date": "2026-03-04"
     }
   ]
 }
