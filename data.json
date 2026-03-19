@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-18 16:28:37.114178",
-    "latest_game_date": "2026-03-15"
+    "updated_at": "2026-03-19 16:01:49.611239",
+    "latest_game_date": "2026-03-18"
   },
   "season_leaders": [
     {
@@ -124,11 +124,11 @@
     {
       "athlete_display_name": "Maggie Doogan",
       "team_short_display_name": "Richmond",
-      "games_played": 33,
-      "ppg": 21,
-      "rpg": 7.8,
+      "games_played": 34,
+      "ppg": 21.1,
+      "rpg": 7.9,
       "apg": 3.9,
-      "total_pts": 692
+      "total_pts": 716
     },
     {
       "athlete_display_name": "Naomi White",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Halli Poock",
-      "team_short_display_name": "Murray St",
-      "points": 33,
-      "rebounds": 2,
-      "assists": 5,
-      "game_date": "2026-03-15"
+      "athlete_display_name": "Maggie Doogan",
+      "team_short_display_name": "Richmond",
+      "points": 24,
+      "rebounds": 10,
+      "assists": 3,
+      "game_date": "2026-03-18"
     },
     {
-      "athlete_display_name": "Kadidia Toure",
-      "team_short_display_name": "Long Island",
-      "points": 28,
+      "athlete_display_name": "Ashlyn Traylor-Walker",
+      "team_short_display_name": "SF Austin",
+      "points": 23,
+      "rebounds": 3,
+      "assists": 4,
+      "game_date": "2026-03-18"
+    },
+    {
+      "athlete_display_name": "Kaemyn Bekemeier",
+      "team_short_display_name": "Missouri St",
+      "points": 22,
+      "rebounds": 13,
+      "assists": 1,
+      "game_date": "2026-03-18"
+    },
+    {
+      "athlete_display_name": "Britt Prince",
+      "team_short_display_name": "Nebraska",
+      "points": 22,
+      "rebounds": 3,
+      "assists": 5,
+      "game_date": "2026-03-18"
+    },
+    {
+      "athlete_display_name": "Maiesha Washington",
+      "team_short_display_name": "Missouri St",
+      "points": 18,
+      "rebounds": 6,
+      "assists": 4,
+      "game_date": "2026-03-18"
+    },
+    {
+      "athlete_display_name": "Lainie Douglas",
+      "team_short_display_name": "Missouri St",
+      "points": 14,
+      "rebounds": 10,
+      "assists": 1,
+      "game_date": "2026-03-18"
+    },
+    {
+      "athlete_display_name": "Callin Hake",
+      "team_short_display_name": "Nebraska",
+      "points": 14,
+      "rebounds": 4,
+      "assists": 4,
+      "game_date": "2026-03-18"
+    },
+    {
+      "athlete_display_name": "Aziyah Farrier",
+      "team_short_display_name": "SF Austin",
+      "points": 13,
       "rebounds": 9,
       "assists": 1,
-      "game_date": "2026-03-15"
+      "game_date": "2026-03-18"
     },
     {
-      "athlete_display_name": "Belle Bramer",
-      "team_short_display_name": "Lehigh",
-      "points": 24,
-      "rebounds": 4,
-      "assists": 2,
-      "game_date": "2026-03-15"
-    },
-    {
-      "athlete_display_name": "Taryn Barbot",
-      "team_short_display_name": "Charleston",
-      "points": 23,
-      "rebounds": 6,
+      "athlete_display_name": "Kendal Brueggen",
+      "team_short_display_name": "Missouri St",
+      "points": 13,
+      "rebounds": 9,
       "assists": 3,
-      "game_date": "2026-03-15"
+      "game_date": "2026-03-18"
     },
     {
-      "athlete_display_name": "Haven Ford",
-      "team_short_display_name": "Murray St",
-      "points": 18,
+      "athlete_display_name": "Myka Perry",
+      "team_short_display_name": "SF Austin",
+      "points": 11,
       "rebounds": 4,
-      "assists": 3,
-      "game_date": "2026-03-15"
-    },
-    {
-      "athlete_display_name": "Leia Edwards",
-      "team_short_display_name": "Lehigh",
-      "points": 17,
-      "rebounds": 11,
-      "assists": 6,
-      "game_date": "2026-03-15"
-    },
-    {
-      "athlete_display_name": "Taylor Barbot",
-      "team_short_display_name": "Charleston",
-      "points": 16,
-      "rebounds": 4,
-      "assists": 8,
-      "game_date": "2026-03-15"
-    },
-    {
-      "athlete_display_name": "Mireia Mustaros",
-      "team_short_display_name": "Evansville",
-      "points": 16,
-      "rebounds": 5,
       "assists": 1,
-      "game_date": "2026-03-15"
-    },
-    {
-      "athlete_display_name": "Meg Cahalan",
-      "team_short_display_name": "Holy Cross",
-      "points": 16,
-      "rebounds": 5,
-      "assists": 2,
-      "game_date": "2026-03-15"
-    },
-    {
-      "athlete_display_name": "Simone Foreman",
-      "team_short_display_name": "Holy Cross",
-      "points": 16,
-      "rebounds": 12,
-      "assists": 0,
-      "game_date": "2026-03-15"
+      "game_date": "2026-03-18"
     }
   ]
 }
