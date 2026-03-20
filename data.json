@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-19 16:01:49.611239",
-    "latest_game_date": "2026-03-18"
+    "updated_at": "2026-03-20 15:49:18.871829",
+    "latest_game_date": "2026-03-19"
   },
   "season_leaders": [
     {
@@ -167,31 +167,31 @@
       "total_pts": 675
     },
     {
-      "athlete_display_name": "Hunter Hernandez",
-      "team_short_display_name": "UC Irvine",
-      "games_played": 32,
-      "ppg": 19.9,
-      "rpg": 6,
-      "apg": 2.1,
-      "total_pts": 636
-    },
-    {
       "athlete_display_name": "Jaliya Davis",
       "team_short_display_name": "Kansas",
-      "games_played": 22,
+      "games_played": 23,
       "ppg": 19.9,
-      "rpg": 6.5,
+      "rpg": 6.6,
       "apg": 1.3,
-      "total_pts": 437
+      "total_pts": 458
     },
     {
       "athlete_display_name": "Riley Weiss",
       "team_short_display_name": "Columbia",
-      "games_played": 28,
+      "games_played": 29,
       "ppg": 19.9,
       "rpg": 3,
       "apg": 2,
-      "total_pts": 556
+      "total_pts": 578
+    },
+    {
+      "athlete_display_name": "Hunter Hernandez",
+      "team_short_display_name": "UC Irvine",
+      "games_played": 33,
+      "ppg": 19.8,
+      "rpg": 5.9,
+      "apg": 2.2,
+      "total_pts": 655
     },
     {
       "athlete_display_name": "Coryn Watts",
@@ -232,11 +232,11 @@
     {
       "athlete_display_name": "Avery Koenen",
       "team_short_display_name": "N Dakota St",
-      "games_played": 32,
-      "ppg": 19.5,
+      "games_played": 33,
+      "ppg": 19.4,
       "rpg": 10.9,
       "apg": 2.4,
-      "total_pts": 624
+      "total_pts": 640
     },
     {
       "athlete_display_name": "Lauren Whittaker",
@@ -293,22 +293,13 @@
       "total_pts": 615
     },
     {
-      "athlete_display_name": "Amaris Baker",
-      "team_short_display_name": "Drexel",
-      "games_played": 31,
-      "ppg": 19.1,
-      "rpg": 4.2,
-      "apg": 1.6,
-      "total_pts": 593
-    },
-    {
       "athlete_display_name": "Kymora Johnson",
       "team_short_display_name": "Virginia",
-      "games_played": 30,
+      "games_played": 31,
       "ppg": 19,
-      "rpg": 4.3,
+      "rpg": 4.5,
       "apg": 5.9,
-      "total_pts": 571
+      "total_pts": 588
     },
     {
       "athlete_display_name": "Madison Booker",
@@ -329,6 +320,15 @@
       "total_pts": 642
     },
     {
+      "athlete_display_name": "Amaris Baker",
+      "team_short_display_name": "Drexel",
+      "games_played": 32,
+      "ppg": 18.8,
+      "rpg": 4.2,
+      "apg": 1.6,
+      "total_pts": 600
+    },
+    {
       "athlete_display_name": "Jasmine Bascoe",
       "team_short_display_name": "Villanova",
       "games_played": 32,
@@ -340,11 +340,11 @@
     {
       "athlete_display_name": "Grace Slaughter",
       "team_short_display_name": "Missouri",
-      "games_played": 32,
-      "ppg": 18.6,
-      "rpg": 6.7,
+      "games_played": 33,
+      "ppg": 18.7,
+      "rpg": 6.8,
       "apg": 1.8,
-      "total_pts": 596
+      "total_pts": 618
     },
     {
       "athlete_display_name": "Sarah Strong",
@@ -410,6 +410,15 @@
       "total_pts": 637
     },
     {
+      "athlete_display_name": "Kaylen Nelson",
+      "team_short_display_name": "Bradley",
+      "games_played": 33,
+      "ppg": 18.2,
+      "rpg": 5,
+      "apg": 1.5,
+      "total_pts": 600
+    },
+    {
       "athlete_display_name": "Dani Carnegie",
       "team_short_display_name": "Georgia",
       "games_played": 31,
@@ -437,104 +446,95 @@
       "total_pts": 561
     },
     {
-      "athlete_display_name": "Kaylen Nelson",
-      "team_short_display_name": "Bradley",
+      "athlete_display_name": "Zahirah Walton",
+      "team_short_display_name": "George Mason",
       "games_played": 32,
       "ppg": 18.1,
-      "rpg": 4.9,
-      "apg": 1.4,
-      "total_pts": 579
-    },
-    {
-      "athlete_display_name": "Ali Saunders",
-      "team_short_display_name": "So Indiana",
-      "games_played": 30,
-      "ppg": 18,
-      "rpg": 3.2,
-      "apg": 4.8,
-      "total_pts": 539
+      "rpg": 6.1,
+      "apg": 2.1,
+      "total_pts": 580
     }
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Maggie Doogan",
-      "team_short_display_name": "Richmond",
-      "points": 24,
-      "rebounds": 10,
+      "athlete_display_name": "Caia Elisaldez",
+      "team_short_display_name": "Chattanooga",
+      "points": 33,
+      "rebounds": 3,
+      "assists": 2,
+      "game_date": "2026-03-19"
+    },
+    {
+      "athlete_display_name": "S'Mya Nichols",
+      "team_short_display_name": "Kansas",
+      "points": 31,
+      "rebounds": 2,
       "assists": 3,
-      "game_date": "2026-03-18"
+      "game_date": "2026-03-19"
     },
     {
-      "athlete_display_name": "Ashlyn Traylor-Walker",
-      "team_short_display_name": "SF Austin",
-      "points": 23,
-      "rebounds": 3,
-      "assists": 4,
-      "game_date": "2026-03-18"
-    },
-    {
-      "athlete_display_name": "Kaemyn Bekemeier",
-      "team_short_display_name": "Missouri St",
-      "points": 22,
-      "rebounds": 13,
+      "athlete_display_name": "Talayah Walker",
+      "team_short_display_name": "Georgia Tech",
+      "points": 29,
+      "rebounds": 10,
       "assists": 1,
-      "game_date": "2026-03-18"
+      "game_date": "2026-03-19"
     },
     {
-      "athlete_display_name": "Britt Prince",
-      "team_short_display_name": "Nebraska",
-      "points": 22,
-      "rebounds": 3,
-      "assists": 5,
-      "game_date": "2026-03-18"
+      "athlete_display_name": "Lulu Twidale",
+      "team_short_display_name": "California",
+      "points": 27,
+      "rebounds": 11,
+      "assists": 4,
+      "game_date": "2026-03-19"
     },
     {
-      "athlete_display_name": "Maiesha Washington",
-      "team_short_display_name": "Missouri St",
-      "points": 18,
+      "athlete_display_name": "Elli Guiney",
+      "team_short_display_name": "Pepperdine",
+      "points": 27,
+      "rebounds": 4,
+      "assists": 0,
+      "game_date": "2026-03-19"
+    },
+    {
+      "athlete_display_name": "Nunu Agara",
+      "team_short_display_name": "Stanford",
+      "points": 26,
+      "rebounds": 16,
+      "assists": 1,
+      "game_date": "2026-03-19"
+    },
+    {
+      "athlete_display_name": "Zahirah Walton",
+      "team_short_display_name": "George Mason",
+      "points": 24,
+      "rebounds": 5,
+      "assists": 2,
+      "game_date": "2026-03-19"
+    },
+    {
+      "athlete_display_name": "Joseana Vaz",
+      "team_short_display_name": "E Kentucky",
+      "points": 24,
+      "rebounds": 8,
+      "assists": 3,
+      "game_date": "2026-03-19"
+    },
+    {
+      "athlete_display_name": "Laycee Drake",
+      "team_short_display_name": "St Bonaventure",
+      "points": 24,
+      "rebounds": 8,
+      "assists": 3,
+      "game_date": "2026-03-19"
+    },
+    {
+      "athlete_display_name": "Tiara Bolden",
+      "team_short_display_name": "Oregon St",
+      "points": 23,
       "rebounds": 6,
       "assists": 4,
-      "game_date": "2026-03-18"
-    },
-    {
-      "athlete_display_name": "Lainie Douglas",
-      "team_short_display_name": "Missouri St",
-      "points": 14,
-      "rebounds": 10,
-      "assists": 1,
-      "game_date": "2026-03-18"
-    },
-    {
-      "athlete_display_name": "Callin Hake",
-      "team_short_display_name": "Nebraska",
-      "points": 14,
-      "rebounds": 4,
-      "assists": 4,
-      "game_date": "2026-03-18"
-    },
-    {
-      "athlete_display_name": "Aziyah Farrier",
-      "team_short_display_name": "SF Austin",
-      "points": 13,
-      "rebounds": 9,
-      "assists": 1,
-      "game_date": "2026-03-18"
-    },
-    {
-      "athlete_display_name": "Kendal Brueggen",
-      "team_short_display_name": "Missouri St",
-      "points": 13,
-      "rebounds": 9,
-      "assists": 3,
-      "game_date": "2026-03-18"
-    },
-    {
-      "athlete_display_name": "Myka Perry",
-      "team_short_display_name": "SF Austin",
-      "points": 11,
-      "rebounds": 4,
-      "assists": 1,
-      "game_date": "2026-03-18"
+      "game_date": "2026-03-19"
     }
   ]
 }
