@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-24 16:13:16.423416",
-    "latest_game_date": "2026-03-23"
+    "updated_at": "2026-03-25 16:16:41.196609",
+    "latest_game_date": "2026-03-24"
   },
   "season_leaders": [
     {
@@ -365,15 +365,6 @@
       "total_pts": 626
     },
     {
-      "athlete_display_name": "Payton Hull",
-      "team_short_display_name": "Abilene Chrstn",
-      "games_played": 33,
-      "ppg": 18.4,
-      "rpg": 4.2,
-      "apg": 3.1,
-      "total_pts": 606
-    },
-    {
       "athlete_display_name": "Sarah Strong",
       "team_short_display_name": "UConn",
       "games_played": 35,
@@ -390,6 +381,15 @@
       "rpg": 3.9,
       "apg": 4.2,
       "total_pts": 604
+    },
+    {
+      "athlete_display_name": "Payton Hull",
+      "team_short_display_name": "Abilene Chrstn",
+      "games_played": 34,
+      "ppg": 18.3,
+      "rpg": 4.1,
+      "apg": 3.1,
+      "total_pts": 622
     },
     {
       "athlete_display_name": "Camryn Runner",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Jaloni Cambridge",
-      "team_short_display_name": "Ohio State",
-      "points": 41,
-      "rebounds": 7,
-      "assists": 2,
-      "game_date": "2026-03-23"
-    },
-    {
-      "athlete_display_name": "Colbi Maples",
-      "team_short_display_name": "Cleveland St",
-      "points": 39,
-      "rebounds": 2,
+      "athlete_display_name": "Alana Nelson",
+      "team_short_display_name": "Purdue FW",
+      "points": 37,
+      "rebounds": 3,
       "assists": 4,
-      "game_date": "2026-03-23"
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Lauren Betts",
-      "team_short_display_name": "UCLA",
-      "points": 35,
+      "athlete_display_name": "Rhema Collins",
+      "team_short_display_name": "FIU",
+      "points": 25,
       "rebounds": 9,
-      "assists": 5,
-      "game_date": "2026-03-23"
+      "assists": 2,
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Azzi Fudd",
-      "team_short_display_name": "UConn",
-      "points": 34,
-      "rebounds": 3,
-      "assists": 5,
-      "game_date": "2026-03-23"
+      "athlete_display_name": "Erin Woodson",
+      "team_short_display_name": "Abilene Chrstn",
+      "points": 18,
+      "rebounds": 5,
+      "assists": 1,
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Delaney Gibb",
-      "team_short_display_name": "BYU",
-      "points": 29,
-      "rebounds": 8,
-      "assists": 6,
-      "game_date": "2026-03-23"
+      "athlete_display_name": "Natalia Chavez",
+      "team_short_display_name": "Abilene Chrstn",
+      "points": 17,
+      "rebounds": 4,
+      "assists": 1,
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Kymora Johnson",
-      "team_short_display_name": "Virginia",
-      "points": 28,
-      "rebounds": 2,
+      "athlete_display_name": "Payton Hull",
+      "team_short_display_name": "Abilene Chrstn",
+      "points": 16,
+      "rebounds": 1,
       "assists": 4,
-      "game_date": "2026-03-23"
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Alexus Mobley",
-      "team_short_display_name": "Loyola Chicago",
-      "points": 27,
+      "athlete_display_name": "Amyah Sutton",
+      "team_short_display_name": "South Alabama",
+      "points": 16,
+      "rebounds": 2,
+      "assists": 1,
+      "game_date": "2026-03-24"
+    },
+    {
+      "athlete_display_name": "Fantasia James",
+      "team_short_display_name": "FIU",
+      "points": 15,
       "rebounds": 7,
-      "assists": 2,
-      "game_date": "2026-03-23"
+      "assists": 1,
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Divine Dibula",
-      "team_short_display_name": "Monmouth",
-      "points": 26,
-      "rebounds": 11,
-      "assists": 0,
-      "game_date": "2026-03-23"
-    },
-    {
-      "athlete_display_name": "Gabby Reynolds",
-      "team_short_display_name": "G Washington",
-      "points": 26,
+      "athlete_display_name": "Diawna Carter-Hartley",
+      "team_short_display_name": "South Alabama",
+      "points": 15,
       "rebounds": 3,
       "assists": 0,
-      "game_date": "2026-03-23"
+      "game_date": "2026-03-24"
     },
     {
-      "athlete_display_name": "Hannah Hidalgo",
-      "team_short_display_name": "Notre Dame",
-      "points": 26,
-      "rebounds": 13,
-      "assists": 2,
-      "game_date": "2026-03-23"
+      "athlete_display_name": "Brianna Barnes",
+      "team_short_display_name": "MD Eastern",
+      "points": 14,
+      "rebounds": 0,
+      "assists": 1,
+      "game_date": "2026-03-24"
+    },
+    {
+      "athlete_display_name": "Jazmyn Stone",
+      "team_short_display_name": "Abilene Chrstn",
+      "points": 13,
+      "rebounds": 2,
+      "assists": 7,
+      "game_date": "2026-03-24"
     }
   ]
 }
