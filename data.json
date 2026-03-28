@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "updated_at": "2026-03-27 15:58:58.068001",
-    "latest_game_date": "2026-03-26"
+    "updated_at": "2026-03-28 15:37:45.052488",
+    "latest_game_date": "2026-03-27"
   },
   "season_leaders": [
     {
       "athlete_display_name": "Mikayla Blakes",
       "team_short_display_name": "Vanderbilt",
-      "games_played": 33,
+      "games_played": 34,
       "ppg": 27,
-      "rpg": 4,
-      "apg": 4.6,
-      "total_pts": 892
+      "rpg": 4.1,
+      "apg": 4.5,
+      "total_pts": 918
     },
     {
       "athlete_display_name": "Audi Crooks",
@@ -25,11 +25,11 @@
     {
       "athlete_display_name": "Hannah Hidalgo",
       "team_short_display_name": "Notre Dame",
-      "games_played": 34,
-      "ppg": 25.2,
-      "rpg": 6.7,
-      "apg": 5.2,
-      "total_pts": 856
+      "games_played": 35,
+      "ppg": 25.3,
+      "rpg": 6.8,
+      "apg": 5.3,
+      "total_pts": 887
     },
     {
       "athlete_display_name": "Mia Nicastro",
@@ -250,11 +250,11 @@
     {
       "athlete_display_name": "Timaya Lewis-Eutsey",
       "team_short_display_name": "Marshall",
-      "games_played": 33,
+      "games_played": 34,
       "ppg": 19.4,
-      "rpg": 3.9,
+      "rpg": 3.8,
       "apg": 3.9,
-      "total_pts": 640
+      "total_pts": 660
     },
     {
       "athlete_display_name": "Madison Booker",
@@ -356,6 +356,15 @@
       "total_pts": 615
     },
     {
+      "athlete_display_name": "Sarah Strong",
+      "team_short_display_name": "UConn",
+      "games_played": 36,
+      "ppg": 18.5,
+      "rpg": 7.6,
+      "apg": 4,
+      "total_pts": 666
+    },
+    {
       "athlete_display_name": "Berry Wallace",
       "team_short_display_name": "Illinois",
       "games_played": 34,
@@ -363,15 +372,6 @@
       "rpg": 6.2,
       "apg": 1.8,
       "total_pts": 626
-    },
-    {
-      "athlete_display_name": "Sarah Strong",
-      "team_short_display_name": "UConn",
-      "games_played": 35,
-      "ppg": 18.4,
-      "rpg": 7.5,
-      "apg": 4.1,
-      "total_pts": 645
     },
     {
       "athlete_display_name": "Aaliyah Chavez",
@@ -394,11 +394,11 @@
     {
       "athlete_display_name": "Payton Hull",
       "team_short_display_name": "Abilene Chrstn",
-      "games_played": 34,
+      "games_played": 35,
       "ppg": 18.3,
       "rpg": 4.1,
       "apg": 3.1,
-      "total_pts": 622
+      "total_pts": 639
     },
     {
       "athlete_display_name": "Camryn Runner",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Delaney Gibb",
-      "team_short_display_name": "BYU",
-      "points": 27,
-      "rebounds": 7,
+      "athlete_display_name": "Hannah Hidalgo",
+      "team_short_display_name": "Notre Dame",
+      "points": 31,
+      "rebounds": 11,
+      "assists": 7,
+      "game_date": "2026-03-27"
+    },
+    {
+      "athlete_display_name": "MiLaysia Fulwiley",
+      "team_short_display_name": "LSU",
+      "points": 28,
+      "rebounds": 4,
       "assists": 4,
-      "game_date": "2026-03-26"
+      "game_date": "2026-03-27"
     },
     {
-      "athlete_display_name": "Courtney Ogden",
-      "team_short_display_name": "Stanford",
+      "athlete_display_name": "Mikayla Blakes",
+      "team_short_display_name": "Vanderbilt",
       "points": 26,
-      "rebounds": 5,
-      "assists": 2,
-      "game_date": "2026-03-26"
-    },
-    {
-      "athlete_display_name": "Jaliya Davis",
-      "team_short_display_name": "Kansas",
-      "points": 25,
-      "rebounds": 6,
+      "rebounds": 8,
       "assists": 3,
-      "game_date": "2026-03-26"
+      "game_date": "2026-03-27"
     },
     {
-      "athlete_display_name": "Perri Page",
-      "team_short_display_name": "Columbia",
+      "athlete_display_name": "Sara Lewis",
+      "team_short_display_name": "G Washington",
+      "points": 25,
+      "rebounds": 13,
+      "assists": 8,
+      "game_date": "2026-03-27"
+    },
+    {
+      "athlete_display_name": "Aubrey Galvan",
+      "team_short_display_name": "Vanderbilt",
       "points": 24,
       "rebounds": 7,
       "assists": 3,
-      "game_date": "2026-03-26"
+      "game_date": "2026-03-27"
     },
     {
-      "athlete_display_name": "Addison Harris",
-      "team_short_display_name": "Montana St",
+      "athlete_display_name": "Alana Nelson",
+      "team_short_display_name": "Purdue FW",
+      "points": 24,
+      "rebounds": 5,
+      "assists": 4,
+      "game_date": "2026-03-27"
+    },
+    {
+      "athlete_display_name": "Doneelah Washington",
+      "team_short_display_name": "Illinois St",
       "points": 23,
-      "rebounds": 2,
-      "assists": 2,
-      "game_date": "2026-03-26"
-    },
-    {
-      "athlete_display_name": "Riley Weiss",
-      "team_short_display_name": "Columbia",
-      "points": 22,
-      "rebounds": 2,
-      "assists": 2,
-      "game_date": "2026-03-26"
-    },
-    {
-      "athlete_display_name": "Patience Williams",
-      "team_short_display_name": "South Dakota",
-      "points": 20,
       "rebounds": 9,
-      "assists": 3,
-      "game_date": "2026-03-26"
+      "assists": 0,
+      "game_date": "2026-03-27"
     },
     {
-      "athlete_display_name": "Angelina Robles",
-      "team_short_display_name": "South Dakota",
-      "points": 20,
-      "rebounds": 6,
-      "assists": 2,
-      "game_date": "2026-03-26"
+      "athlete_display_name": "Toby Fournier",
+      "team_short_display_name": "Duke",
+      "points": 22,
+      "rebounds": 9,
+      "assists": 1,
+      "game_date": "2026-03-27"
     },
     {
-      "athlete_display_name": "Naomi Panganiban",
-      "team_short_display_name": "San Diego St",
-      "points": 20,
-      "rebounds": 1,
-      "assists": 2,
-      "game_date": "2026-03-26"
+      "athlete_display_name": "Taina Mair",
+      "team_short_display_name": "Duke",
+      "points": 22,
+      "rebounds": 5,
+      "assists": 4,
+      "game_date": "2026-03-27"
     },
     {
-      "athlete_display_name": "Colbi Maples",
-      "team_short_display_name": "Cleveland St",
-      "points": 19,
-      "rebounds": 4,
-      "assists": 2,
-      "game_date": "2026-03-26"
+      "athlete_display_name": "Mikaylah Williams",
+      "team_short_display_name": "LSU",
+      "points": 22,
+      "rebounds": 5,
+      "assists": 0,
+      "game_date": "2026-03-27"
     }
   ]
 }
