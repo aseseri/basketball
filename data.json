@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-28 15:37:45.052488",
-    "latest_game_date": "2026-03-27"
+    "updated_at": "2026-03-29 15:39:13.421254",
+    "latest_game_date": "2026-03-28"
   },
   "season_leaders": [
     {
@@ -167,15 +167,6 @@
       "total_pts": 621
     },
     {
-      "athlete_display_name": "Joyce Edwards",
-      "team_short_display_name": "South Carolina",
-      "games_played": 36,
-      "ppg": 19.9,
-      "rpg": 6.4,
-      "apg": 2.3,
-      "total_pts": 717
-    },
-    {
       "athlete_display_name": "Hunter Hernandez",
       "team_short_display_name": "UC Irvine",
       "games_played": 33,
@@ -212,6 +203,24 @@
       "total_pts": 569
     },
     {
+      "athlete_display_name": "Joyce Edwards",
+      "team_short_display_name": "South Carolina",
+      "games_played": 37,
+      "ppg": 19.6,
+      "rpg": 6.5,
+      "apg": 2.4,
+      "total_pts": 725
+    },
+    {
+      "athlete_display_name": "Olivia Miles",
+      "team_short_display_name": "TCU",
+      "games_played": 37,
+      "ppg": 19.6,
+      "rpg": 7.3,
+      "apg": 6.6,
+      "total_pts": 726
+    },
+    {
       "athlete_display_name": "Cotie McMahon",
       "team_short_display_name": "Ole Miss",
       "games_played": 36,
@@ -223,11 +232,11 @@
     {
       "athlete_display_name": "Kymora Johnson",
       "team_short_display_name": "Virginia",
-      "games_played": 33,
+      "games_played": 34,
       "ppg": 19.5,
       "rpg": 4.5,
-      "apg": 5.8,
-      "total_pts": 644
+      "apg": 5.9,
+      "total_pts": 662
     },
     {
       "athlete_display_name": "Avery Koenen",
@@ -237,15 +246,6 @@
       "rpg": 10.8,
       "apg": 2.4,
       "total_pts": 661
-    },
-    {
-      "athlete_display_name": "Olivia Miles",
-      "team_short_display_name": "TCU",
-      "games_played": 36,
-      "ppg": 19.4,
-      "rpg": 7.2,
-      "apg": 6.6,
-      "total_pts": 698
     },
     {
       "athlete_display_name": "Timaya Lewis-Eutsey",
@@ -259,11 +259,11 @@
     {
       "athlete_display_name": "Madison Booker",
       "team_short_display_name": "Texas",
-      "games_played": 36,
+      "games_played": 37,
       "ppg": 19.3,
       "rpg": 6.7,
-      "apg": 3.8,
-      "total_pts": 696
+      "apg": 3.9,
+      "total_pts": 713
     },
     {
       "athlete_display_name": "Gracie Merkle",
@@ -286,11 +286,11 @@
     {
       "athlete_display_name": "Olivia Olson",
       "team_short_display_name": "Michigan",
-      "games_played": 33,
+      "games_played": 34,
       "ppg": 19.2,
-      "rpg": 6.2,
+      "rpg": 6.1,
       "apg": 2.5,
-      "total_pts": 633
+      "total_pts": 652
     },
     {
       "athlete_display_name": "Vernell Atamah",
@@ -365,6 +365,15 @@
       "total_pts": 666
     },
     {
+      "athlete_display_name": "Aaliyah Chavez",
+      "team_short_display_name": "Oklahoma",
+      "games_played": 34,
+      "ppg": 18.4,
+      "rpg": 3.8,
+      "apg": 4.2,
+      "total_pts": 625
+    },
+    {
       "athlete_display_name": "Berry Wallace",
       "team_short_display_name": "Illinois",
       "games_played": 34,
@@ -372,15 +381,6 @@
       "rpg": 6.2,
       "apg": 1.8,
       "total_pts": 626
-    },
-    {
-      "athlete_display_name": "Aaliyah Chavez",
-      "team_short_display_name": "Oklahoma",
-      "games_played": 33,
-      "ppg": 18.3,
-      "rpg": 3.9,
-      "apg": 4.2,
-      "total_pts": 604
     },
     {
       "athlete_display_name": "Delaney Gibb",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Hannah Hidalgo",
-      "team_short_display_name": "Notre Dame",
-      "points": 31,
-      "rebounds": 11,
-      "assists": 7,
-      "game_date": "2026-03-27"
+      "athlete_display_name": "Marta Suarez",
+      "team_short_display_name": "TCU",
+      "points": 33,
+      "rebounds": 10,
+      "assists": 3,
+      "game_date": "2026-03-28"
     },
     {
-      "athlete_display_name": "MiLaysia Fulwiley",
-      "team_short_display_name": "LSU",
+      "athlete_display_name": "Olivia Miles",
+      "team_short_display_name": "TCU",
       "points": 28,
-      "rebounds": 4,
-      "assists": 4,
-      "game_date": "2026-03-27"
-    },
-    {
-      "athlete_display_name": "Mikayla Blakes",
-      "team_short_display_name": "Vanderbilt",
-      "points": 26,
-      "rebounds": 8,
-      "assists": 3,
-      "game_date": "2026-03-27"
-    },
-    {
-      "athlete_display_name": "Sara Lewis",
-      "team_short_display_name": "G Washington",
-      "points": 25,
-      "rebounds": 13,
+      "rebounds": 10,
       "assists": 8,
-      "game_date": "2026-03-27"
+      "game_date": "2026-03-28"
     },
     {
-      "athlete_display_name": "Aubrey Galvan",
-      "team_short_display_name": "Vanderbilt",
-      "points": 24,
-      "rebounds": 7,
+      "athlete_display_name": "Ta'Niya Latson",
+      "team_short_display_name": "South Carolina",
+      "points": 28,
+      "rebounds": 1,
+      "assists": 5,
+      "game_date": "2026-03-28"
+    },
+    {
+      "athlete_display_name": "Aaliyah Chavez",
+      "team_short_display_name": "Oklahoma",
+      "points": 21,
+      "rebounds": 0,
       "assists": 3,
-      "game_date": "2026-03-27"
+      "game_date": "2026-03-28"
     },
     {
-      "athlete_display_name": "Alana Nelson",
-      "team_short_display_name": "Purdue FW",
-      "points": 24,
+      "athlete_display_name": "Paris Clark",
+      "team_short_display_name": "Virginia",
+      "points": 20,
+      "rebounds": 1,
+      "assists": 3,
+      "game_date": "2026-03-28"
+    },
+    {
+      "athlete_display_name": "Olivia Olson",
+      "team_short_display_name": "Michigan",
+      "points": 19,
       "rebounds": 5,
-      "assists": 4,
-      "game_date": "2026-03-27"
+      "assists": 3,
+      "game_date": "2026-03-28"
     },
     {
-      "athlete_display_name": "Doneelah Washington",
-      "team_short_display_name": "Illinois St",
-      "points": 23,
-      "rebounds": 9,
-      "assists": 0,
-      "game_date": "2026-03-27"
+      "athlete_display_name": "Kymora Johnson",
+      "team_short_display_name": "Virginia",
+      "points": 18,
+      "rebounds": 6,
+      "assists": 8,
+      "game_date": "2026-03-28"
     },
     {
-      "athlete_display_name": "Toby Fournier",
-      "team_short_display_name": "Duke",
-      "points": 22,
-      "rebounds": 9,
+      "athlete_display_name": "Raven Johnson",
+      "team_short_display_name": "South Carolina",
+      "points": 18,
+      "rebounds": 2,
+      "assists": 3,
+      "game_date": "2026-03-28"
+    },
+    {
+      "athlete_display_name": "Jordan Lee",
+      "team_short_display_name": "Texas",
+      "points": 18,
+      "rebounds": 2,
+      "assists": 3,
+      "game_date": "2026-03-28"
+    },
+    {
+      "athlete_display_name": "Elif Istanbulluoglu",
+      "team_short_display_name": "Louisville",
+      "points": 18,
+      "rebounds": 7,
       "assists": 1,
-      "game_date": "2026-03-27"
-    },
-    {
-      "athlete_display_name": "Taina Mair",
-      "team_short_display_name": "Duke",
-      "points": 22,
-      "rebounds": 5,
-      "assists": 4,
-      "game_date": "2026-03-27"
-    },
-    {
-      "athlete_display_name": "Mikaylah Williams",
-      "team_short_display_name": "LSU",
-      "points": 22,
-      "rebounds": 5,
-      "assists": 0,
-      "game_date": "2026-03-27"
+      "game_date": "2026-03-28"
     }
   ]
 }
