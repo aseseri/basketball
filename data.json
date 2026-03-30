@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-03-29 15:39:13.421254",
-    "latest_game_date": "2026-03-28"
+    "updated_at": "2026-03-30 16:12:21.616941",
+    "latest_game_date": "2026-03-29"
   },
   "season_leaders": [
     {
@@ -25,11 +25,11 @@
     {
       "athlete_display_name": "Hannah Hidalgo",
       "team_short_display_name": "Notre Dame",
-      "games_played": 35,
-      "ppg": 25.3,
-      "rpg": 6.8,
-      "apg": 5.3,
-      "total_pts": 887
+      "games_played": 36,
+      "ppg": 25.2,
+      "rpg": 6.9,
+      "apg": 5.2,
+      "total_pts": 909
     },
     {
       "athlete_display_name": "Mia Nicastro",
@@ -358,11 +358,11 @@
     {
       "athlete_display_name": "Sarah Strong",
       "team_short_display_name": "UConn",
-      "games_played": 36,
-      "ppg": 18.5,
+      "games_played": 37,
+      "ppg": 18.6,
       "rpg": 7.6,
-      "apg": 4,
-      "total_pts": 666
+      "apg": 3.9,
+      "total_pts": 687
     },
     {
       "athlete_display_name": "Aaliyah Chavez",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Marta Suarez",
-      "team_short_display_name": "TCU",
-      "points": 33,
+      "athlete_display_name": "Molly Joyce",
+      "team_short_display_name": "South Dakota",
+      "points": 31,
+      "rebounds": 2,
+      "assists": 0,
+      "game_date": "2026-03-29"
+    },
+    {
+      "athlete_display_name": "Lauren Betts",
+      "team_short_display_name": "UCLA",
+      "points": 23,
       "rebounds": 10,
       "assists": 3,
-      "game_date": "2026-03-28"
+      "game_date": "2026-03-29"
     },
     {
-      "athlete_display_name": "Olivia Miles",
-      "team_short_display_name": "TCU",
-      "points": 28,
-      "rebounds": 10,
-      "assists": 8,
-      "game_date": "2026-03-28"
-    },
-    {
-      "athlete_display_name": "Ta'Niya Latson",
-      "team_short_display_name": "South Carolina",
-      "points": 28,
-      "rebounds": 1,
-      "assists": 5,
-      "game_date": "2026-03-28"
-    },
-    {
-      "athlete_display_name": "Aaliyah Chavez",
-      "team_short_display_name": "Oklahoma",
-      "points": 21,
-      "rebounds": 0,
-      "assists": 3,
-      "game_date": "2026-03-28"
-    },
-    {
-      "athlete_display_name": "Paris Clark",
-      "team_short_display_name": "Virginia",
-      "points": 20,
-      "rebounds": 1,
-      "assists": 3,
-      "game_date": "2026-03-28"
-    },
-    {
-      "athlete_display_name": "Olivia Olson",
-      "team_short_display_name": "Michigan",
-      "points": 19,
-      "rebounds": 5,
-      "assists": 3,
-      "game_date": "2026-03-28"
-    },
-    {
-      "athlete_display_name": "Kymora Johnson",
-      "team_short_display_name": "Virginia",
-      "points": 18,
+      "athlete_display_name": "Taylee Chirrick",
+      "team_short_display_name": "Montana St",
+      "points": 23,
       "rebounds": 6,
-      "assists": 8,
-      "game_date": "2026-03-28"
-    },
-    {
-      "athlete_display_name": "Raven Johnson",
-      "team_short_display_name": "South Carolina",
-      "points": 18,
-      "rebounds": 2,
       "assists": 3,
-      "game_date": "2026-03-28"
+      "game_date": "2026-03-29"
     },
     {
-      "athlete_display_name": "Jordan Lee",
-      "team_short_display_name": "Texas",
-      "points": 18,
-      "rebounds": 2,
+      "athlete_display_name": "Hannah Hidalgo",
+      "team_short_display_name": "Notre Dame",
+      "points": 22,
+      "rebounds": 11,
       "assists": 3,
-      "game_date": "2026-03-28"
+      "game_date": "2026-03-29"
     },
     {
-      "athlete_display_name": "Elif Istanbulluoglu",
-      "team_short_display_name": "Louisville",
-      "points": 18,
+      "athlete_display_name": "Taina Mair",
+      "team_short_display_name": "Duke",
+      "points": 21,
+      "rebounds": 7,
+      "assists": 6,
+      "game_date": "2026-03-29"
+    },
+    {
+      "athlete_display_name": "Sarah Strong",
+      "team_short_display_name": "UConn",
+      "points": 21,
       "rebounds": 7,
       "assists": 1,
-      "game_date": "2026-03-28"
+      "game_date": "2026-03-29"
+    },
+    {
+      "athlete_display_name": "Blanca Quiñonez",
+      "team_short_display_name": "UConn",
+      "points": 20,
+      "rebounds": 8,
+      "assists": 3,
+      "game_date": "2026-03-29"
+    },
+    {
+      "athlete_display_name": "Addison Harris",
+      "team_short_display_name": "Montana St",
+      "points": 16,
+      "rebounds": 9,
+      "assists": 2,
+      "game_date": "2026-03-29"
+    },
+    {
+      "athlete_display_name": "Angela Dugalic",
+      "team_short_display_name": "UCLA",
+      "points": 15,
+      "rebounds": 6,
+      "assists": 4,
+      "game_date": "2026-03-29"
+    },
+    {
+      "athlete_display_name": "Riley Nelson",
+      "team_short_display_name": "Duke",
+      "points": 13,
+      "rebounds": 3,
+      "assists": 1,
+      "game_date": "2026-03-29"
     }
   ]
 }
