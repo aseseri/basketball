@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-04-01 16:13:23.301857",
-    "latest_game_date": "2026-03-30"
+    "updated_at": "2026-04-02 16:06:56.016829",
+    "latest_game_date": "2026-04-01"
   },
   "season_leaders": [
     {
@@ -151,11 +151,11 @@
     {
       "athlete_display_name": "Riley Weiss",
       "team_short_display_name": "Columbia",
-      "games_played": 32,
+      "games_played": 33,
       "ppg": 20.1,
-      "rpg": 3,
+      "rpg": 3.1,
       "apg": 2.1,
-      "total_pts": 642
+      "total_pts": 662
     },
     {
       "athlete_display_name": "Taryn Barbot",
@@ -183,6 +183,15 @@
       "rpg": 6.5,
       "apg": 1.4,
       "total_pts": 514
+    },
+    {
+      "athlete_display_name": "Timaya Lewis-Eutsey",
+      "team_short_display_name": "Marshall",
+      "games_played": 36,
+      "ppg": 19.8,
+      "rpg": 3.8,
+      "apg": 3.9,
+      "total_pts": 714
     },
     {
       "athlete_display_name": "Joyce Edwards",
@@ -237,15 +246,6 @@
       "rpg": 4.5,
       "apg": 5.9,
       "total_pts": 662
-    },
-    {
-      "athlete_display_name": "Timaya Lewis-Eutsey",
-      "team_short_display_name": "Marshall",
-      "games_played": 35,
-      "ppg": 19.5,
-      "rpg": 3.8,
-      "apg": 3.9,
-      "total_pts": 683
     },
     {
       "athlete_display_name": "Avery Koenen",
@@ -383,6 +383,15 @@
       "total_pts": 626
     },
     {
+      "athlete_display_name": "Delaney Gibb",
+      "team_short_display_name": "BYU",
+      "games_played": 30,
+      "ppg": 18.3,
+      "rpg": 5.1,
+      "apg": 4.6,
+      "total_pts": 548
+    },
+    {
       "athlete_display_name": "Payton Hull",
       "team_short_display_name": "Abilene Chrstn",
       "games_played": 35,
@@ -408,15 +417,6 @@
       "rpg": 5,
       "apg": 1.5,
       "total_pts": 600
-    },
-    {
-      "athlete_display_name": "Delaney Gibb",
-      "team_short_display_name": "BYU",
-      "games_played": 29,
-      "ppg": 18.1,
-      "rpg": 5,
-      "apg": 4.6,
-      "total_pts": 524
     },
     {
       "athlete_display_name": "Eva DeChent",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Joyce Edwards",
-      "team_short_display_name": "South Carolina",
-      "points": 24,
-      "rebounds": 12,
-      "assists": 2,
-      "game_date": "2026-03-30"
-    },
-    {
       "athlete_display_name": "Timaya Lewis-Eutsey",
       "team_short_display_name": "Marshall",
-      "points": 23,
+      "points": 31,
       "rebounds": 4,
-      "assists": 3,
-      "game_date": "2026-03-30"
+      "assists": 4,
+      "game_date": "2026-04-01"
     },
     {
-      "athlete_display_name": "Olivia Hamlin",
+      "athlete_display_name": "Delaney Gibb",
       "team_short_display_name": "BYU",
+      "points": 24,
+      "rebounds": 8,
+      "assists": 5,
+      "game_date": "2026-04-01"
+    },
+    {
+      "athlete_display_name": "Mia Broom",
+      "team_short_display_name": "Columbia",
       "points": 23,
-      "rebounds": 1,
+      "rebounds": 6,
+      "assists": 4,
+      "game_date": "2026-04-01"
+    },
+    {
+      "athlete_display_name": "Doneelah Washington",
+      "team_short_display_name": "Illinois St",
+      "points": 21,
+      "rebounds": 11,
       "assists": 1,
-      "game_date": "2026-03-30"
+      "game_date": "2026-04-01"
     },
     {
       "athlete_display_name": "Riley Weiss",
       "team_short_display_name": "Columbia",
-      "points": 21,
-      "rebounds": 3,
-      "assists": 4,
-      "game_date": "2026-03-30"
-    },
-    {
-      "athlete_display_name": "Wynter Rogers",
-      "team_short_display_name": "Arkansas St",
       "points": 20,
-      "rebounds": 5,
-      "assists": 2,
-      "game_date": "2026-03-30"
+      "rebounds": 7,
+      "assists": 4,
+      "game_date": "2026-04-01"
     },
     {
-      "athlete_display_name": "Madison Booker",
-      "team_short_display_name": "Texas",
+      "athlete_display_name": "Bella Weary",
+      "team_short_display_name": "Arkansas St",
       "points": 19,
       "rebounds": 7,
-      "assists": 1,
-      "game_date": "2026-03-30"
+      "assists": 0,
+      "game_date": "2026-04-01"
     },
     {
-      "athlete_display_name": "Olivia Miles",
-      "team_short_display_name": "TCU",
-      "points": 18,
+      "athlete_display_name": "Olivia Hamlin",
+      "team_short_display_name": "BYU",
+      "points": 17,
+      "rebounds": 1,
+      "assists": 1,
+      "game_date": "2026-04-01"
+    },
+    {
+      "athlete_display_name": "Crislyn Rose",
+      "team_short_display_name": "Arkansas St",
+      "points": 16,
       "rebounds": 3,
       "assists": 6,
-      "game_date": "2026-03-30"
+      "game_date": "2026-04-01"
     },
     {
-      "athlete_display_name": "Agot Makeer",
-      "team_short_display_name": "South Carolina",
-      "points": 18,
-      "rebounds": 4,
-      "assists": 3,
-      "game_date": "2026-03-30"
-    },
-    {
-      "athlete_display_name": "Jaliya Davis",
-      "team_short_display_name": "Kansas",
-      "points": 18,
-      "rebounds": 4,
+      "athlete_display_name": "Molly Joyce",
+      "team_short_display_name": "South Dakota",
+      "points": 16,
+      "rebounds": 6,
       "assists": 0,
-      "game_date": "2026-03-30"
+      "game_date": "2026-04-01"
     },
     {
-      "athlete_display_name": "Kamari Sims",
-      "team_short_display_name": "G Washington",
-      "points": 17,
-      "rebounds": 3,
-      "assists": 2,
-      "game_date": "2026-03-30"
+      "athlete_display_name": "Addison Martin",
+      "team_short_display_name": "Illinois St",
+      "points": 14,
+      "rebounds": 5,
+      "assists": 4,
+      "game_date": "2026-04-01"
     }
   ]
 }
