@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-04-03 15:44:57.29063",
-    "latest_game_date": "2026-04-01"
+    "updated_at": "2026-04-04 15:38:31.787611",
+    "latest_game_date": "2026-04-03"
   },
   "season_leaders": [
     {
@@ -194,15 +194,6 @@
       "total_pts": 714
     },
     {
-      "athlete_display_name": "Joyce Edwards",
-      "team_short_display_name": "South Carolina",
-      "games_played": 38,
-      "ppg": 19.7,
-      "rpg": 6.7,
-      "apg": 2.4,
-      "total_pts": 749
-    },
-    {
       "athlete_display_name": "Taliah Scott",
       "team_short_display_name": "Baylor",
       "games_played": 33,
@@ -239,6 +230,15 @@
       "total_pts": 703
     },
     {
+      "athlete_display_name": "Joyce Edwards",
+      "team_short_display_name": "South Carolina",
+      "games_played": 39,
+      "ppg": 19.5,
+      "rpg": 6.7,
+      "apg": 2.4,
+      "total_pts": 760
+    },
+    {
       "athlete_display_name": "Kymora Johnson",
       "team_short_display_name": "Virginia",
       "games_played": 34,
@@ -255,15 +255,6 @@
       "rpg": 10.8,
       "apg": 2.4,
       "total_pts": 661
-    },
-    {
-      "athlete_display_name": "Madison Booker",
-      "team_short_display_name": "Texas",
-      "games_played": 38,
-      "ppg": 19.3,
-      "rpg": 6.7,
-      "apg": 3.8,
-      "total_pts": 732
     },
     {
       "athlete_display_name": "Gracie Merkle",
@@ -311,6 +302,15 @@
       "total_pts": 624
     },
     {
+      "athlete_display_name": "Madison Booker",
+      "team_short_display_name": "Texas",
+      "games_played": 39,
+      "ppg": 18.9,
+      "rpg": 6.7,
+      "apg": 3.7,
+      "total_pts": 738
+    },
+    {
       "athlete_display_name": "Olivia Olson",
       "team_short_display_name": "Michigan",
       "games_played": 35,
@@ -356,15 +356,6 @@
       "total_pts": 615
     },
     {
-      "athlete_display_name": "Sarah Strong",
-      "team_short_display_name": "UConn",
-      "games_played": 37,
-      "ppg": 18.6,
-      "rpg": 7.6,
-      "apg": 3.9,
-      "total_pts": 687
-    },
-    {
       "athlete_display_name": "Aaliyah Chavez",
       "team_short_display_name": "Oklahoma",
       "games_played": 34,
@@ -381,6 +372,15 @@
       "rpg": 6.2,
       "apg": 1.8,
       "total_pts": 626
+    },
+    {
+      "athlete_display_name": "Sarah Strong",
+      "team_short_display_name": "UConn",
+      "games_played": 38,
+      "ppg": 18.4,
+      "rpg": 7.7,
+      "apg": 3.8,
+      "total_pts": 699
     },
     {
       "athlete_display_name": "Delaney Gibb",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Timaya Lewis-Eutsey",
-      "team_short_display_name": "Marshall",
-      "points": 31,
-      "rebounds": 4,
-      "assists": 4,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Delaney Gibb",
-      "team_short_display_name": "BYU",
-      "points": 24,
-      "rebounds": 8,
-      "assists": 5,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Mia Broom",
-      "team_short_display_name": "Columbia",
-      "points": 23,
-      "rebounds": 6,
-      "assists": 4,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Doneelah Washington",
-      "team_short_display_name": "Illinois St",
-      "points": 21,
+      "athlete_display_name": "Lauren Betts",
+      "team_short_display_name": "UCLA",
+      "points": 16,
       "rebounds": 11,
-      "assists": 1,
-      "game_date": "2026-04-01"
+      "assists": 3,
+      "game_date": "2026-04-03"
     },
     {
-      "athlete_display_name": "Riley Weiss",
-      "team_short_display_name": "Columbia",
-      "points": 20,
-      "rebounds": 7,
-      "assists": 4,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Bella Weary",
-      "team_short_display_name": "Arkansas St",
-      "points": 19,
-      "rebounds": 7,
-      "assists": 0,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Olivia Hamlin",
-      "team_short_display_name": "BYU",
-      "points": 17,
-      "rebounds": 1,
-      "assists": 1,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Crislyn Rose",
-      "team_short_display_name": "Arkansas St",
+      "athlete_display_name": "Ta'Niya Latson",
+      "team_short_display_name": "South Carolina",
       "points": 16,
-      "rebounds": 3,
-      "assists": 6,
-      "game_date": "2026-04-01"
+      "rebounds": 11,
+      "assists": 2,
+      "game_date": "2026-04-03"
     },
     {
-      "athlete_display_name": "Molly Joyce",
-      "team_short_display_name": "South Dakota",
-      "points": 16,
-      "rebounds": 6,
-      "assists": 0,
-      "game_date": "2026-04-01"
-    },
-    {
-      "athlete_display_name": "Addison Martin",
-      "team_short_display_name": "Illinois St",
+      "athlete_display_name": "Agot Makeer",
+      "team_short_display_name": "South Carolina",
       "points": 14,
+      "rebounds": 4,
+      "assists": 2,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Sarah Strong",
+      "team_short_display_name": "UConn",
+      "points": 12,
+      "rebounds": 12,
+      "assists": 1,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Kyla Oldacre",
+      "team_short_display_name": "Texas",
+      "points": 11,
+      "rebounds": 7,
+      "assists": 1,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Kiki Rice",
+      "team_short_display_name": "UCLA",
+      "points": 11,
       "rebounds": 5,
-      "assists": 4,
-      "game_date": "2026-04-01"
+      "assists": 1,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Joyce Edwards",
+      "team_short_display_name": "South Carolina",
+      "points": 11,
+      "rebounds": 8,
+      "assists": 2,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Gianna Kneepkens",
+      "team_short_display_name": "UCLA",
+      "points": 10,
+      "rebounds": 4,
+      "assists": 0,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Gabriela Jaquez",
+      "team_short_display_name": "UCLA",
+      "points": 10,
+      "rebounds": 4,
+      "assists": 2,
+      "game_date": "2026-04-03"
+    },
+    {
+      "athlete_display_name": "Tessa Johnson",
+      "team_short_display_name": "South Carolina",
+      "points": 10,
+      "rebounds": 0,
+      "assists": 1,
+      "game_date": "2026-04-03"
     }
   ]
 }
