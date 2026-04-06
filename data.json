@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated_at": "2026-04-05 15:39:29.926746",
-    "latest_game_date": "2026-04-04"
+    "updated_at": "2026-04-06 15:53:29.802247",
+    "latest_game_date": "2026-04-05"
   },
   "season_leaders": [
     {
@@ -230,15 +230,6 @@
       "total_pts": 703
     },
     {
-      "athlete_display_name": "Joyce Edwards",
-      "team_short_display_name": "South Carolina",
-      "games_played": 39,
-      "ppg": 19.5,
-      "rpg": 6.7,
-      "apg": 2.4,
-      "total_pts": 760
-    },
-    {
       "athlete_display_name": "Kymora Johnson",
       "team_short_display_name": "Virginia",
       "games_played": 34,
@@ -264,6 +255,15 @@
       "rpg": 8.2,
       "apg": 1.3,
       "total_pts": 500
+    },
+    {
+      "athlete_display_name": "Joyce Edwards",
+      "team_short_display_name": "South Carolina",
+      "games_played": 40,
+      "ppg": 19.2,
+      "rpg": 6.8,
+      "apg": 2.4,
+      "total_pts": 768
     },
     {
       "athlete_display_name": "Kadidia Toure",
@@ -457,84 +457,84 @@
   ],
   "daily_leaders": [
     {
-      "athlete_display_name": "Timaya Lewis-Eutsey",
-      "team_short_display_name": "Marshall",
-      "points": 27,
-      "rebounds": 3,
-      "assists": 3,
-      "game_date": "2026-04-04"
+      "athlete_display_name": "Gabriela Jaquez",
+      "team_short_display_name": "UCLA",
+      "points": 21,
+      "rebounds": 10,
+      "assists": 5,
+      "game_date": "2026-04-05"
     },
     {
-      "athlete_display_name": "Addison Martin",
-      "team_short_display_name": "Illinois St",
-      "points": 11,
-      "rebounds": 3,
-      "assists": 0,
-      "game_date": "2026-04-04"
-    },
-    {
-      "athlete_display_name": "Trista Fayta",
-      "team_short_display_name": "Illinois St",
-      "points": 9,
-      "rebounds": 3,
-      "assists": 2,
-      "game_date": "2026-04-04"
-    },
-    {
-      "athlete_display_name": "Ni'Kiah Chesterfield",
-      "team_short_display_name": "Marshall",
-      "points": 7,
+      "athlete_display_name": "Gianna Kneepkens",
+      "team_short_display_name": "UCLA",
+      "points": 15,
       "rebounds": 1,
-      "assists": 1,
-      "game_date": "2026-04-04"
+      "assists": 4,
+      "game_date": "2026-04-05"
     },
     {
-      "athlete_display_name": "Grace Nelson",
-      "team_short_display_name": "Illinois St",
-      "points": 6,
-      "rebounds": 2,
-      "assists": 1,
-      "game_date": "2026-04-04"
-    },
-    {
-      "athlete_display_name": "Bella Finnegan",
-      "team_short_display_name": "Illinois St",
-      "points": 6,
-      "rebounds": 0,
-      "assists": 1,
-      "game_date": "2026-04-04"
-    },
-    {
-      "athlete_display_name": "Meredith Maier",
-      "team_short_display_name": "Marshall",
-      "points": 6,
+      "athlete_display_name": "Tessa Johnson",
+      "team_short_display_name": "South Carolina",
+      "points": 14,
       "rebounds": 3,
+      "assists": 1,
+      "game_date": "2026-04-05"
+    },
+    {
+      "athlete_display_name": "Lauren Betts",
+      "team_short_display_name": "UCLA",
+      "points": 14,
+      "rebounds": 11,
       "assists": 2,
-      "game_date": "2026-04-04"
+      "game_date": "2026-04-05"
     },
     {
-      "athlete_display_name": "Blessing King",
-      "team_short_display_name": "Marshall",
-      "points": 6,
-      "rebounds": 8,
+      "athlete_display_name": "Agot Makeer",
+      "team_short_display_name": "South Carolina",
+      "points": 11,
+      "rebounds": 2,
       "assists": 0,
-      "game_date": "2026-04-04"
+      "game_date": "2026-04-05"
     },
     {
-      "athlete_display_name": "Timberlynn Yeast",
-      "team_short_display_name": "Marshall",
-      "points": 5,
+      "athlete_display_name": "Charlisse Leger-Walker",
+      "team_short_display_name": "UCLA",
+      "points": 10,
       "rebounds": 4,
       "assists": 2,
-      "game_date": "2026-04-04"
+      "game_date": "2026-04-05"
     },
     {
-      "athlete_display_name": "Kya Hurt",
-      "team_short_display_name": "Illinois St",
-      "points": 4,
-      "rebounds": 0,
+      "athlete_display_name": "Kiki Rice",
+      "team_short_display_name": "UCLA",
+      "points": 10,
+      "rebounds": 6,
+      "assists": 5,
+      "game_date": "2026-04-05"
+    },
+    {
+      "athlete_display_name": "Angela Dugalic",
+      "team_short_display_name": "UCLA",
+      "points": 9,
+      "rebounds": 5,
+      "assists": 4,
+      "game_date": "2026-04-05"
+    },
+    {
+      "athlete_display_name": "Joyce Edwards",
+      "team_short_display_name": "South Carolina",
+      "points": 8,
+      "rebounds": 11,
+      "assists": 3,
+      "game_date": "2026-04-05"
+    },
+    {
+      "athlete_display_name": "Madina Okot",
+      "team_short_display_name": "South Carolina",
+      "points": 6,
+      "rebounds": 3,
       "assists": 1,
-      "game_date": "2026-04-04"
+      "game_date": "2026-04-05"
     }
   ]
 }
